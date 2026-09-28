@@ -1,0 +1,45 @@
+@import 'tailwindcss';
+
+/* Design tokens relevés dans _capture/design-tokens.md */
+@theme {
+  --font-sans: 'Nunito Sans', ui-sans-serif, system-ui, sans-serif;
+  --font-heading: 'Cabin', sans-serif;
+
+  --color-navy: #06163a; /* topbar, bloc maire, copyright */
+  --color-footer: #132244; /* fond du footer */
+  --color-ink: #202b5d; /* titres */
+  --color-body: #62718d; /* texte courant */
+  --color-accent: #df193a; /* rouge */
+  --color-link: #0d5bd7; /* boutons outline bleus */
+  --color-cloud: #f6f6f6; /* fonds de section gris */
+  --color-line: #d1d1d6;
+
+  --shadow-card: 0 10px 40px 0 rgba(6, 22, 58, 0.1);
+  --shadow-soft: 0 5px 14px 0 rgba(6, 22, 58, 0.1);
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  body {
+    @apply bg-white text-body font-sans antialiased text-[17px] leading-[1.6];
+  }
+  h1, h2, h3, h4 {
+    @apply font-heading text-ink;
+  }
+  ::selection {
+    background: var(--color-accent);
+    color: #fff;
+  }
+}
+
+@layer utilities {
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+  .no-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+}
