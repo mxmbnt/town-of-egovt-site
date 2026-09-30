@@ -4,7 +4,18 @@ export function Container({ className = '', children }) {
   return <div className={`mx-auto w-full max-w-[1290px] px-5 ${className}`}>{children}</div>
 }
 
-// Boutons rectangulaires du thème. variants : red | navy | outline | outlineBlue
+// Conteneur Bootstrap du thème (listes d'archives) : 1240px sans gouttière sur grand écran
+export function NarrowContainer({ className = '', children }) {
+  return <div className={`mx-auto w-full max-w-[1240px] px-5 xl:px-0 ${className}`}>{children}</div>
+}
+
+// Grille d'archive du thème : chaque carte a 30px de marge droite, y compris la dernière
+export function ArchiveGrid({ cols = 3, className = '', children }) {
+  const c = { 2: 'md:grid-cols-2', 3: 'sm:grid-cols-2 lg:grid-cols-3', 4: 'sm:grid-cols-2 lg:grid-cols-4' }[cols]
+  return <div className={`grid gap-[30px] lg:pr-[30px] ${c} ${className}`}>{children}</div>
+}
+
+// Boutons rectangulaires du thème. variants : red | navy | outline | outlineBlue | black
 export function Button({ as = 'a', variant = 'red', className = '', children, ...rest }) {
   const Comp = as
   const variants = {
@@ -12,6 +23,7 @@ export function Button({ as = 'a', variant = 'red', className = '', children, ..
     navy: 'bg-navy text-white hover:bg-accent',
     outline: 'border-2 border-line text-ink hover:border-accent hover:bg-accent hover:text-white',
     outlineBlue: 'border-2 border-link text-link hover:bg-link hover:text-white',
+    black: 'bg-black text-white hover:bg-sun hover:text-black',
   }
   return (
     <Comp

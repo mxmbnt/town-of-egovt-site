@@ -1,0 +1,300 @@
+[
+ {
+  "label": "Home",
+  "href": "/",
+  "children": [
+   {
+    "label": "Home Default",
+    "href": "/"
+   },
+   {
+    "label": "Home Modern",
+    "href": "/home-2/"
+   },
+   {
+    "label": "Home Classic",
+    "href": "/home-3/"
+   },
+   {
+    "label": "Home Political party",
+    "href": "/home-4/"
+   },
+   {
+    "label": "Home Travel and Tourism Guide",
+    "href": "/home-5/"
+   },
+   {
+    "label": "Home Local Town",
+    "href": "/home-6/"
+   },
+   {
+    "label": "Home City Hall",
+    "href": "/home-7/"
+   },
+   {
+    "label": "Home County",
+    "href": "/home-8/"
+   },
+   {
+    "label": "Home NGO",
+    "href": "/home-9/"
+   }
+  ]
+ },
+ {
+  "label": "Pages",
+  "href": "#",
+  "children": [
+   {
+    "label": "Services",
+    "href": "/ova_sev/",
+    "children": [
+     {
+      "label": "Service Page",
+      "href": "/page-service/"
+     },
+     {
+      "label": "Detail",
+      "href": "/ova_sev/your-goverment/"
+     }
+    ]
+   },
+   {
+    "label": "History",
+    "href": "/history/"
+   },
+   {
+    "label": "About",
+    "href": "/about/"
+   },
+   {
+    "label": "FAQ",
+    "href": "/faq/"
+   },
+   {
+    "label": "Documentation",
+    "href": "/ova_doc/",
+    "children": [
+     {
+      "label": "Category",
+      "href": "/cat_doc/finance-economy/"
+     },
+     {
+      "label": "Detail",
+      "href": "/ova_doc/veichle-parking-license/"
+     }
+    ]
+   },
+   {
+    "label": "Team",
+    "href": "/team/",
+    "children": [
+     {
+      "label": "Team Page",
+      "href": "/page-team/"
+     },
+     {
+      "label": "Category",
+      "href": "/cat_team/city-council-president/"
+     },
+     {
+      "label": "Detail",
+      "href": "/team/wenalbooze/"
+     }
+    ]
+   },
+   {
+    "label": "Directory",
+    "href": "#",
+    "children": [
+     {
+      "label": "Archive Directory",
+      "href": "/ova_dir/"
+     },
+     {
+      "label": "Category Directory",
+      "href": "/cat_dir/public-services/"
+     },
+     {
+      "label": "Directory Filter",
+      "href": "/directory-filter/"
+     },
+     {
+      "label": "Bowling Point",
+      "href": "/ova_dir/bowling-point/"
+     }
+    ]
+   },
+   {
+    "label": "Shop",
+    "href": "/shop/",
+    "children": [
+     {
+      "label": "Detail",
+      "href": "/product/ninja-woo-poster/"
+     },
+     {
+      "label": "Cart",
+      "href": "/cart/"
+     },
+     {
+      "label": "Checkout",
+      "href": "/checkout/"
+     }
+    ]
+   },
+   {
+    "label": "Causes",
+    "href": "/donations/",
+    "children": [
+     {
+      "label": "Listing Sidebar 1",
+      "href": "/donations/"
+     },
+     {
+      "label": "Listing Sidebar 2",
+      "href": "/donations/?donation_type=type_4"
+     },
+     {
+      "label": "Listing Grid 1",
+      "href": "/donations/?donation_type=type_2"
+     },
+     {
+      "label": "Listing Grid 2",
+      "href": "/donations/?donation_type=type_3"
+     },
+     {
+      "label": "Donate",
+      "href": "/donate/"
+     },
+     {
+      "label": "Become A Volunteer",
+      "href": "/become-a-volunteer/"
+     }
+    ]
+   },
+   {
+    "label": "Coming Soon",
+    "href": "/coming-soon/"
+   },
+   {
+    "label": "My account",
+    "href": "/my-account/"
+   }
+  ]
+ },
+ {
+  "label": "Department",
+  "href": "/department/",
+  "children": [
+   {
+    "label": "Department Page",
+    "href": "/department/"
+   },
+   {
+    "label": "Department Listing",
+    "href": "/ova_dep/"
+   },
+   {
+    "label": "Culture Category",
+    "href": "/cat_dep/culture/"
+   },
+   {
+    "label": "Department Detail",
+    "href": "/ova_dep/business-administration/"
+   }
+  ]
+ },
+ {
+  "label": "Event",
+  "href": "/event/",
+  "children": [
+   {
+    "label": "Event Listing",
+    "href": "/event/"
+   },
+   {
+    "label": "Event Grid",
+    "href": "/event/?event_type_temp=type2"
+   },
+   {
+    "label": "Event Grid Sidebar",
+    "href": "/event/?event_type_temp=type3"
+   },
+   {
+    "label": "Health Category",
+    "href": "/event_type/health-sports/"
+   },
+   {
+    "label": "Event Detail",
+    "href": "/event/organizing-city-photography-contest-2021/"
+   }
+  ]
+ },
+ {
+  "label": "Blog",
+  "href": "/blog/",
+  "children": [
+   {
+    "label": "News Sidebar",
+    "href": "/blog/?layout_sidebar=layout_2r&blog_template=default"
+   },
+   {
+    "label": "News Grid Sidebar",
+    "href": "/blog/?layout_sidebar=layout_2r&blog_template=grid_sidebar"
+   },
+   {
+    "label": "News Grid Medium",
+    "href": "/blog/?layout_sidebar=layout_1c&blog_template=grid_medium"
+   },
+   {
+    "label": "News Grid Small",
+    "href": "/blog/?layout_sidebar=layout_1c&blog_template=grid_small"
+   }
+  ]
+ },
+ {
+  "label": "Portfolio",
+  "href": "/ova_por/",
+  "children": [
+   {
+    "label": "Portfolio Classsic",
+    "href": "/ova_por/?archive_type_portfolio=classic"
+   },
+   {
+    "label": "Portfolio Grid",
+    "href": "/ova_por/?archive_type_portfolio=grid"
+   },
+   {
+    "label": "Portfolio Modern",
+    "href": "/ova_por/?archive_type_portfolio=modern"
+   },
+   {
+    "label": "Detail Type 3",
+    "href": "/ova_por/business-agencies/"
+   },
+   {
+    "label": "Detail Type 2",
+    "href": "/ova_por/museum-of-new-york/?single_type_portfolio=type2"
+   },
+   {
+    "label": "Detail Type 1",
+    "href": "/ova_por/museum-of-new-york/?single_type_portfolio=type1"
+   }
+  ]
+ },
+ {
+  "label": "Contact",
+  "href": "/contact-1/",
+  "children": [
+   {
+    "label": "Contact 1",
+    "href": "/contact-1/"
+   },
+   {
+    "label": "Contact 2",
+    "href": "/contact-2/"
+   }
+  ]
+ }
+]

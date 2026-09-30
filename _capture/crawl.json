@@ -1,0 +1,1633 @@
+[
+ {
+  "url": "https://egovt.ovathemewp.com/",
+  "final": "https://egovt.ovathemewp.com/",
+  "status": 200,
+  "title": "Egovt Theme - Just another WordPress site",
+  "body": "home wp-singular page-template page-template-elementor_header_footer page page-id-68 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-template-full-width elementor-kit-15 elementor-page elementor-page-68"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/about/",
+  "final": "https://egovt.ovathemewp.com/about/",
+  "status": 200,
+  "title": "About - Egovt Theme",
+  "body": "wp-singular page-template page-template-elementor_header_footer page page-id-1315 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-template-full-width elementor-kit-15 elementor-page elementor-page-1315"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/author/admin/",
+  "final": "https://egovt.ovathemewp.com/author/admin/",
+  "status": 200,
+  "title": "admin - Egovt Theme",
+  "body": "archive author author-admin author-1 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/author/admin/page/2/",
+  "final": "https://egovt.ovathemewp.com/author/admin/page/2/",
+  "status": 200,
+  "title": "admin - Page 2 - Egovt Theme",
+  "body": "archive paged author author-admin author-1 paged-2 author-paged-2 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/become-a-volunteer/",
+  "final": "https://egovt.ovathemewp.com/become-a-volunteer/",
+  "status": 200,
+  "title": "Become A Volunteer - Egovt Theme",
+  "body": "wp-singular page-template page-template-elementor_header_footer page page-id-4222 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-template-full-width elementor-kit-15 elementor-page elementor-page-4222"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/blog/",
+  "final": "https://egovt.ovathemewp.com/blog/",
+  "status": 200,
+  "title": "Blog - Egovt Theme",
+  "body": "blog wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/blog/?layout_sidebar=layout_1c",
+  "final": "https://egovt.ovathemewp.com/blog/?layout_sidebar=layout_1c",
+  "status": 200,
+  "title": "Blog - Egovt Theme",
+  "body": "blog wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/blog/?layout_sidebar=layout_2r",
+  "final": "https://egovt.ovathemewp.com/blog/?layout_sidebar=layout_2r",
+  "status": 200,
+  "title": "Blog - Egovt Theme",
+  "body": "blog wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/blog/page/2/",
+  "final": "https://egovt.ovathemewp.com/blog/page/2/",
+  "status": 200,
+  "title": "Blog - Page 2 - Egovt Theme",
+  "body": "blog paged paged-2 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/blog/page/2/?layout_sidebar=layout_1c",
+  "final": "https://egovt.ovathemewp.com/blog/page/2/?layout_sidebar=layout_1c",
+  "status": 200,
+  "title": "Blog - Page 2 - Egovt Theme",
+  "body": "blog paged paged-2 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/blog/page/2/?layout_sidebar=layout_2r",
+  "final": "https://egovt.ovathemewp.com/blog/page/2/?layout_sidebar=layout_2r",
+  "status": 200,
+  "title": "Blog - Page 2 - Egovt Theme",
+  "body": "blog paged paged-2 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/cart/",
+  "final": "https://egovt.ovathemewp.com/cart/",
+  "status": 200,
+  "title": "Cart - Egovt Theme",
+  "body": "wp-singular page-template-default page page-id-1127 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-cart woocommerce-page woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15 elementor-page elementor-page-1127"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/cat_dep/culture/",
+  "final": "https://egovt.ovathemewp.com/cat_dep/culture/",
+  "status": 200,
+  "title": "Culture - Egovt Theme",
+  "body": "archive tax-cat_dep term-culture term-36 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/cat_dep/culture/page/2/",
+  "final": "https://egovt.ovathemewp.com/cat_dep/culture/page/2/",
+  "status": 200,
+  "title": "Culture - Page 2 - Egovt Theme",
+  "body": "archive paged tax-cat_dep term-culture term-36 paged-2 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/cat_dir/education/",
+  "final": "https://egovt.ovathemewp.com/cat_dir/education/",
+  "status": 200,
+  "title": "Education - Egovt Theme",
+  "body": "archive tax-cat_dir term-education term-98 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/cat_dir/entertainment/",
+  "final": "https://egovt.ovathemewp.com/cat_dir/entertainment/",
+  "status": 200,
+  "title": "Entertainment - Egovt Theme",
+  "body": "archive tax-cat_dir term-entertainment term-100 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/cat_dir/public-services/",
+  "final": "https://egovt.ovathemewp.com/cat_dir/public-services/",
+  "status": 200,
+  "title": "Public Services - Egovt Theme",
+  "body": "archive tax-cat_dir term-public-services term-99 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/cat_doc/business-reports/",
+  "final": "https://egovt.ovathemewp.com/cat_doc/business-reports/",
+  "status": 200,
+  "title": "Business Reports - Egovt Theme",
+  "body": "archive tax-cat_doc term-business-reports term-26 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/cat_doc/city-reports/",
+  "final": "https://egovt.ovathemewp.com/cat_doc/city-reports/",
+  "status": 200,
+  "title": "City Reports - Egovt Theme",
+  "body": "archive tax-cat_doc term-city-reports term-27 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/cat_doc/finance-economy/",
+  "final": "https://egovt.ovathemewp.com/cat_doc/finance-economy/",
+  "status": 200,
+  "title": "Finance &amp; Economy - Egovt Theme",
+  "body": "archive tax-cat_doc term-finance-economy term-28 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/cat_doc/public-works/",
+  "final": "https://egovt.ovathemewp.com/cat_doc/public-works/",
+  "status": 200,
+  "title": "Public Works - Egovt Theme",
+  "body": "archive tax-cat_doc term-public-works term-29 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/cat_doc/roads-transport/",
+  "final": "https://egovt.ovathemewp.com/cat_doc/roads-transport/",
+  "status": 200,
+  "title": "Roads &amp; Transport - Egovt Theme",
+  "body": "archive tax-cat_doc term-roads-transport term-30 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/cat_por/business/",
+  "final": "https://egovt.ovathemewp.com/cat_por/business/",
+  "status": 200,
+  "title": "Business - Egovt Theme",
+  "body": "archive tax-cat_por term-business term-50 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/cat_por/culture/",
+  "final": "https://egovt.ovathemewp.com/cat_por/culture/",
+  "status": 200,
+  "title": "Culture - Egovt Theme",
+  "body": "archive tax-cat_por term-culture term-52 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/cat_por/events/",
+  "final": "https://egovt.ovathemewp.com/cat_por/events/",
+  "status": 200,
+  "title": "Events - Egovt Theme",
+  "body": "archive tax-cat_por term-events term-54 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/cat_por/goverment/",
+  "final": "https://egovt.ovathemewp.com/cat_por/goverment/",
+  "status": 200,
+  "title": "Goverment - Egovt Theme",
+  "body": "archive tax-cat_por term-goverment term-51 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/cat_por/public-places/",
+  "final": "https://egovt.ovathemewp.com/cat_por/public-places/",
+  "status": 200,
+  "title": "Public Places - Egovt Theme",
+  "body": "archive tax-cat_por term-public-places term-53 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/cat_team/city-council-president/",
+  "final": "https://egovt.ovathemewp.com/cat_team/city-council-president/",
+  "status": 200,
+  "title": "City Council President - Egovt Theme",
+  "body": "archive tax-cat_team term-city-council-president term-17 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/category/city-news/",
+  "final": "https://egovt.ovathemewp.com/category/city-news/",
+  "status": 200,
+  "title": "City News - Egovt Theme",
+  "body": "archive category category-city-news category-7 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/category/community/",
+  "final": "https://egovt.ovathemewp.com/category/community/",
+  "status": 200,
+  "title": "Community - Egovt Theme",
+  "body": "archive category category-community category-2 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/category/culture/",
+  "final": "https://egovt.ovathemewp.com/category/culture/",
+  "status": 200,
+  "title": "Culture - Egovt Theme",
+  "body": "archive category category-culture category-8 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/category/devlopement/",
+  "final": "https://egovt.ovathemewp.com/category/devlopement/",
+  "status": 200,
+  "title": "Devlopement - Egovt Theme",
+  "body": "archive category category-devlopement category-9 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/category/goverment/",
+  "final": "https://egovt.ovathemewp.com/category/goverment/",
+  "status": 200,
+  "title": "Goverment - Egovt Theme",
+  "body": "archive category category-goverment category-6 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/category/tourism/",
+  "final": "https://egovt.ovathemewp.com/category/tourism/",
+  "status": 200,
+  "title": "Tourism - Egovt Theme",
+  "body": "archive category category-tourism category-10 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/cdn-cgi/l/email-protection/",
+  "final": "https://egovt.ovathemewp.com/cdn-cgi/l/email-protection/",
+  "status": 404,
+  "title": "404 Not Found",
+  "body": ""
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/checkout/",
+  "final": "https://egovt.ovathemewp.com/cart/",
+  "status": 200,
+  "title": "Cart - Egovt Theme",
+  "body": "wp-singular page-template-default page page-id-1127 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-cart woocommerce-page woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15 elementor-page elementor-page-1127"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/city-unemployment-dips-to-3-9/",
+  "final": "https://egovt.ovathemewp.com/city-unemployment-dips-to-3-9/",
+  "status": 200,
+  "title": "New Industrial Boom 2025: Announcement - Egovt Theme",
+  "body": "wp-singular post-template-default single single-post postid-542 single-format-standard wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15 elementor-page elementor-page-542"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/coming-soon/",
+  "final": "https://egovt.ovathemewp.com/coming-soon/",
+  "status": 200,
+  "title": "Coming Soon - Egovt Theme",
+  "body": "wp-singular page-template page-template-elementor_canvas page page-id-1651 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-template-canvas elementor-kit-15 elementor-page elementor-page-1651"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/contact-1/",
+  "final": "https://egovt.ovathemewp.com/contact-1/",
+  "status": 200,
+  "title": "Contact 1 - Egovt Theme",
+  "body": "wp-singular page-template page-template-elementor_header_footer page page-id-1228 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-template-full-width elementor-kit-15 elementor-page elementor-page-1228"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/contact-2/",
+  "final": "https://egovt.ovathemewp.com/contact-2/",
+  "status": 200,
+  "title": "Contact 2 - Egovt Theme",
+  "body": "wp-singular page-template page-template-elementor_header_footer page page-id-1256 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-template-full-width elementor-kit-15 elementor-page elementor-page-1256"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/coveryee-desert-solow-ride-view/",
+  "final": "https://egovt.ovathemewp.com/coveryee-desert-solow-ride-view/",
+  "status": 200,
+  "title": "Dalvan Museum Street Art View - Egovt Theme",
+  "body": "wp-singular post-template-default single single-post postid-545 single-format-standard wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15 elementor-page elementor-page-545"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/dalvan-museum-street-art-view-2/",
+  "final": "https://egovt.ovathemewp.com/dalvan-museum-street-art-view-2/",
+  "status": 200,
+  "title": "List of City Weekend Celebrations - Egovt Theme",
+  "body": "wp-singular post-template-default single single-post postid-550 single-format-standard wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15 elementor-page elementor-page-550"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/department/",
+  "final": "https://egovt.ovathemewp.com/department/",
+  "status": 200,
+  "title": "Department - Egovt Theme",
+  "body": "wp-singular page-template page-template-elementor_header_footer page page-id-730 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-template-full-width elementor-kit-15 elementor-page elementor-page-730"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/directory-filter/",
+  "final": "https://egovt.ovathemewp.com/directory-filter/",
+  "status": 200,
+  "title": "Directory Filter - Egovt Theme",
+  "body": "wp-singular page-template page-template-elementor_header_footer page page-id-5713 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-template-full-width elementor-kit-15 elementor-page elementor-page-5713"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/donate/",
+  "final": "https://egovt.ovathemewp.com/donate/",
+  "status": 200,
+  "title": "Donate - Egovt Theme",
+  "body": "wp-singular page-template page-template-elementor_header_footer page page-id-4343 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-template-full-width elementor-kit-15 elementor-page elementor-page-4343"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/donations/",
+  "final": "https://egovt.ovathemewp.com/donations/",
+  "status": 200,
+  "title": "Donation Forms - Egovt Theme",
+  "body": "archive post-type-archive post-type-archive-give_forms wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/donations/?donation_type=type_2",
+  "final": "https://egovt.ovathemewp.com/donations/?donation_type=type_2",
+  "status": 200,
+  "title": "Donation Forms - Egovt Theme",
+  "body": "archive post-type-archive post-type-archive-give_forms wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/donations/?donation_type=type_3",
+  "final": "https://egovt.ovathemewp.com/donations/?donation_type=type_3",
+  "status": 200,
+  "title": "Donation Forms - Egovt Theme",
+  "body": "archive post-type-archive post-type-archive-give_forms wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/donations/?donation_type=type_4",
+  "final": "https://egovt.ovathemewp.com/donations/?donation_type=type_4",
+  "status": 200,
+  "title": "Donation Forms - Egovt Theme",
+  "body": "archive post-type-archive post-type-archive-give_forms wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/donations/category/childrends/",
+  "final": "https://egovt.ovathemewp.com/donations/category/childrends/",
+  "status": 200,
+  "title": "Childrends - Egovt Theme",
+  "body": "archive tax-give_forms_category term-childrends term-91 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/donations/category/education/",
+  "final": "https://egovt.ovathemewp.com/donations/category/education/",
+  "status": 200,
+  "title": "Education - Egovt Theme",
+  "body": "archive tax-give_forms_category term-education term-95 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/donations/category/food/",
+  "final": "https://egovt.ovathemewp.com/donations/category/food/",
+  "status": 200,
+  "title": "Food - Egovt Theme",
+  "body": "archive tax-give_forms_category term-food term-92 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/donations/category/health/",
+  "final": "https://egovt.ovathemewp.com/donations/category/health/",
+  "status": 200,
+  "title": "Health - Egovt Theme",
+  "body": "archive tax-give_forms_category term-health term-93 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/donations/category/water/",
+  "final": "https://egovt.ovathemewp.com/donations/category/water/",
+  "status": 200,
+  "title": "Water - Egovt Theme",
+  "body": "archive tax-give_forms_category term-water term-94 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/donations/donate-food/",
+  "final": "https://egovt.ovathemewp.com/donations/donate-food/",
+  "status": 200,
+  "title": "Donation Form - Egovt Theme",
+  "body": "wp-singular give_forms-template-default single single-give_forms postid-5849 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/donations/donate-for-education/",
+  "final": "https://egovt.ovathemewp.com/donations/donate-for-education/",
+  "status": 200,
+  "title": "Donate for Education - Egovt Theme",
+  "body": "wp-singular give_forms-template-default single single-give_forms postid-5827 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/donations/fundraising-campaign/",
+  "final": "https://egovt.ovathemewp.com/donations/fundraising-campaign/",
+  "status": 200,
+  "title": "Fundraising Campaign - Egovt Theme",
+  "body": "wp-singular give_forms-template-default single single-give_forms postid-5825 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/donations/givewp-donation-form/",
+  "final": "https://egovt.ovathemewp.com/donations/givewp-donation-form/",
+  "status": 200,
+  "title": "Donate for Childrens - Egovt Theme",
+  "body": "wp-singular give_forms-template-default single single-give_forms postid-5839 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/environmental-planning-and-sustainability/",
+  "final": "https://egovt.ovathemewp.com/environmental-planning-and-sustainability/",
+  "status": 200,
+  "title": "Environmental Planning and Sustainability - Egovt Theme",
+  "body": "wp-singular post-template-default single single-post postid-7 single-format-standard wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15 elementor-page elementor-page-7"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/europeon-freedom-fighters-statue/",
+  "final": "https://egovt.ovathemewp.com/europeon-freedom-fighters-statue/",
+  "status": 200,
+  "title": "Environmental Sustainability - Egovt Theme",
+  "body": "wp-singular post-template-default single single-post postid-547 single-format-standard wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15 elementor-page elementor-page-547"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/event_tag/announcement/",
+  "final": "https://egovt.ovathemewp.com/event_tag/announcement/",
+  "status": 200,
+  "title": "Announcement - Egovt Theme",
+  "body": "archive tax-event_tag term-announcement term-48 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/event_tag/building/",
+  "final": "https://egovt.ovathemewp.com/event_tag/building/",
+  "status": 200,
+  "title": "Building - Egovt Theme",
+  "body": "archive tax-event_tag term-building term-83 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/event_tag/city/",
+  "final": "https://egovt.ovathemewp.com/event_tag/city/",
+  "status": 200,
+  "title": "City - Egovt Theme",
+  "body": "archive tax-event_tag term-city term-42 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/event_tag/design/",
+  "final": "https://egovt.ovathemewp.com/event_tag/design/",
+  "status": 200,
+  "title": "Design - Egovt Theme",
+  "body": "archive tax-event_tag term-design term-45 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/event_tag/developement/",
+  "final": "https://egovt.ovathemewp.com/event_tag/developement/",
+  "status": 200,
+  "title": "Developement - Egovt Theme",
+  "body": "archive tax-event_tag term-developement term-43 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/event_tag/goverment/",
+  "final": "https://egovt.ovathemewp.com/event_tag/goverment/",
+  "status": 200,
+  "title": "Goverment - Egovt Theme",
+  "body": "archive tax-event_tag term-goverment term-47 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/event_tag/meeting/",
+  "final": "https://egovt.ovathemewp.com/event_tag/meeting/",
+  "status": 200,
+  "title": "Meeting - Egovt Theme",
+  "body": "archive tax-event_tag term-meeting term-49 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/event_tag/road/",
+  "final": "https://egovt.ovathemewp.com/event_tag/road/",
+  "status": 200,
+  "title": "Road - Egovt Theme",
+  "body": "archive tax-event_tag term-road term-44 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/event_tag/smart-city/",
+  "final": "https://egovt.ovathemewp.com/event_tag/smart-city/",
+  "status": 200,
+  "title": "Smart City - Egovt Theme",
+  "body": "archive tax-event_tag term-smart-city term-46 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/event_type/conference/",
+  "final": "https://egovt.ovathemewp.com/event_type/conference/",
+  "status": 200,
+  "title": "Conference - Egovt Theme",
+  "body": "archive tax-event_type term-conference term-37 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/event_type/entertainment/",
+  "final": "https://egovt.ovathemewp.com/event_type/entertainment/",
+  "status": 200,
+  "title": "Entertainment - Egovt Theme",
+  "body": "archive tax-event_type term-entertainment term-38 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/event_type/health-sports/",
+  "final": "https://egovt.ovathemewp.com/event_type/health-sports/",
+  "status": 200,
+  "title": "Health &amp; Sports - Egovt Theme",
+  "body": "archive tax-event_type term-health-sports term-39 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/event_type/meeting/",
+  "final": "https://egovt.ovathemewp.com/event_type/meeting/",
+  "status": 200,
+  "title": "Meeting - Egovt Theme",
+  "body": "archive tax-event_type term-meeting term-40 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/event_type/workshop/",
+  "final": "https://egovt.ovathemewp.com/event_type/workshop/",
+  "status": 200,
+  "title": "Workshop - Egovt Theme",
+  "body": "archive tax-event_type term-workshop term-41 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/event/",
+  "final": "https://egovt.ovathemewp.com/event/",
+  "status": 200,
+  "title": "Events - Egovt Theme",
+  "body": "archive post-type-archive post-type-archive-event wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/event/?event_type_temp=type2",
+  "final": "https://egovt.ovathemewp.com/event/?event_type_temp=type2",
+  "status": 200,
+  "title": "Events - Egovt Theme",
+  "body": "archive post-type-archive post-type-archive-event wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/event/?event_type_temp=type3",
+  "final": "https://egovt.ovathemewp.com/event/?event_type_temp=type3",
+  "status": 200,
+  "title": "Events - Egovt Theme",
+  "body": "archive post-type-archive post-type-archive-event wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/event/3/",
+  "final": "https://egovt.ovathemewp.com/event/3/",
+  "status": 200,
+  "title": "Cultural Festival &#038; Concert at  Domanion Valer - Egovt Theme",
+  "body": "wp-singular event-template-default single single-event postid-2124 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15 elementor-page elementor-page-2124"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/event/5/",
+  "final": "https://egovt.ovathemewp.com/event/5/",
+  "status": 200,
+  "title": "Celebrating World Fiteness Day at White Corner’20 - Egovt Theme",
+  "body": "wp-singular event-template-default single single-event postid-2122 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15 elementor-page elementor-page-2122"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/event/aa/",
+  "final": "https://egovt.ovathemewp.com/event/aa/",
+  "status": 200,
+  "title": "Annual Cycling Race 2020 for the  Covid-19 Donation - Egovt Theme",
+  "body": "wp-singular event-template-default single single-event postid-2123 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15 elementor-page elementor-page-2123"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/event/annual-cycling-race-2020-for-the-covid-19-donation/",
+  "final": "https://egovt.ovathemewp.com/event/annual-cycling-race-2020-for-the-covid-19-donation/",
+  "status": 200,
+  "title": "The Strategically Build Your Business - Egovt Theme",
+  "body": "wp-singular event-template-default single single-event postid-926 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15 elementor-page elementor-page-926"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/event/celebrating-world-fiteness-day-at-white-corner20/",
+  "final": "https://egovt.ovathemewp.com/event/celebrating-world-fiteness-day-at-white-corner20/",
+  "status": 200,
+  "title": "The Financial Freedom Boot Camp 2020 - Egovt Theme",
+  "body": "wp-singular event-template-default single single-event postid-925 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15 elementor-page elementor-page-925"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/event/city-innovation-and-technology-committee-meeting-2/",
+  "final": "https://egovt.ovathemewp.com/event/city-innovation-and-technology-committee-meeting-2/",
+  "status": 200,
+  "title": "Faith Forward Future - Social  Awareness Seminar - Egovt Theme",
+  "body": "wp-singular event-template-default single single-event postid-2120 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15 elementor-page elementor-page-2120"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/event/city-innovation-and-technology-committee-meeting/",
+  "final": "https://egovt.ovathemewp.com/event/city-innovation-and-technology-committee-meeting/",
+  "status": 200,
+  "title": "Real Entrepreneurship Bootcamp in 2021 - Egovt Theme",
+  "body": "wp-singular event-template-default single single-event postid-924 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15 elementor-page elementor-page-924"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/event/cultural-festival-concert-at-domanion-valer/",
+  "final": "https://egovt.ovathemewp.com/event/cultural-festival-concert-at-domanion-valer/",
+  "status": 200,
+  "title": "Cultural Festival &#038; Concert at  Domanion Valer - Egovt Theme",
+  "body": "wp-singular event-template-default single single-event postid-922 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15 elementor-page elementor-page-922"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/event/faith-forward-future-social-awareness-seminar-2/",
+  "final": "https://egovt.ovathemewp.com/event/faith-forward-future-social-awareness-seminar-2/",
+  "status": 200,
+  "title": "City Innovation and Technology Committee Meeting - Egovt Theme",
+  "body": "wp-singular event-template-default single single-event postid-2121 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15 elementor-page elementor-page-2121"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/event/faith-forward-future-social-awareness-seminar/",
+  "final": "https://egovt.ovathemewp.com/event/faith-forward-future-social-awareness-seminar/",
+  "status": 200,
+  "title": "The International Coffee Festival 2021 - Egovt Theme",
+  "body": "wp-singular event-template-default single single-event postid-893 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15 elementor-page elementor-page-893"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/event/organizing-city-photography-contest-2021-2/",
+  "final": "https://egovt.ovathemewp.com/event/organizing-city-photography-contest-2021-2/",
+  "status": 200,
+  "title": "Organizing City Photography  Contest-2021 - Egovt Theme",
+  "body": "wp-singular event-template-default single single-event postid-2125 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15 elementor-page elementor-page-2125"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/event/organizing-city-photography-contest-2021/",
+  "final": "https://egovt.ovathemewp.com/event/organizing-city-photography-contest-2021/",
+  "status": 200,
+  "title": "Sports Basement Group Monthly Ride - Egovt Theme",
+  "body": "wp-singular event-template-default single single-event postid-923 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15 elementor-page elementor-page-923"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/faq/",
+  "final": "https://egovt.ovathemewp.com/faq/",
+  "status": 200,
+  "title": "Municipal FAQ’S - Egovt Theme",
+  "body": "wp-singular page-template page-template-elementor_header_footer page page-id-1173 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-template-full-width elementor-kit-15 elementor-page elementor-page-1173"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/history/",
+  "final": "https://egovt.ovathemewp.com/history/",
+  "status": 200,
+  "title": "History - Egovt Theme",
+  "body": "wp-singular page-template page-template-elementor_header_footer page page-id-1265 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-template-full-width elementor-kit-15 elementor-page elementor-page-1265"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/home-2/",
+  "final": "https://egovt.ovathemewp.com/home-2/",
+  "status": 200,
+  "title": "Home Modern - Egovt Theme",
+  "body": "wp-singular page-template page-template-elementor_header_footer page page-id-283 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-template-full-width elementor-kit-15 elementor-page elementor-page-283"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/home-3/",
+  "final": "https://egovt.ovathemewp.com/home-3/",
+  "status": 200,
+  "title": "Home Classic - Egovt Theme",
+  "body": "wp-singular page-template page-template-elementor_header_footer page page-id-2520 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-template-full-width elementor-kit-15 elementor-page elementor-page-2520"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/home-4/",
+  "final": "https://egovt.ovathemewp.com/home-4/",
+  "status": 200,
+  "title": "Home Political party - Egovt Theme",
+  "body": "wp-singular page-template page-template-elementor_header_footer page page-id-2670 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-template-full-width elementor-kit-15 elementor-page elementor-page-2670"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/home-5/",
+  "final": "https://egovt.ovathemewp.com/home-5/",
+  "status": 200,
+  "title": "Home Travel and Tourism Guide - Egovt Theme",
+  "body": "wp-singular page-template page-template-elementor_header_footer page page-id-2819 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-template-full-width elementor-kit-15 elementor-page elementor-page-2819"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/home-6/",
+  "final": "https://egovt.ovathemewp.com/home-6/",
+  "status": 200,
+  "title": "Home Local Town - Egovt Theme",
+  "body": "wp-singular page-template page-template-elementor_header_footer page page-id-2984 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-template-full-width elementor-kit-15 elementor-page elementor-page-2984"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/home-7/",
+  "final": "https://egovt.ovathemewp.com/home-7/",
+  "status": 200,
+  "title": "Home 7 - Egovt Theme",
+  "body": "wp-singular page-template page-template-elementor_header_footer page page-id-3211 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-template-full-width elementor-kit-15 elementor-page elementor-page-3211"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/home-8/",
+  "final": "https://egovt.ovathemewp.com/home-8/",
+  "status": 200,
+  "title": "Home 8 - Egovt Theme",
+  "body": "wp-singular page-template page-template-elementor_header_footer page page-id-3585 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-template-full-width elementor-kit-15 elementor-page elementor-page-3585"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/home-9/",
+  "final": "https://egovt.ovathemewp.com/home-9/",
+  "status": 200,
+  "title": "Home 9 - Egovt Theme",
+  "body": "wp-singular page-template page-template-elementor_header_footer page page-id-3865 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-template-full-width elementor-kit-15 elementor-page elementor-page-3865"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/list-of-city-weekend-celebrations-2/",
+  "final": "https://egovt.ovathemewp.com/list-of-city-weekend-celebrations-2/",
+  "status": 200,
+  "title": "Urban Renewal Loans  Available - Egovt Theme",
+  "body": "wp-singular post-template-default single single-post postid-540 single-format-standard wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15 elementor-page elementor-page-540"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/list-of-city-weekend-celebrations/",
+  "final": "https://egovt.ovathemewp.com/list-of-city-weekend-celebrations/",
+  "status": 200,
+  "title": "List of City Weekend Celebrations - Egovt Theme",
+  "body": "wp-singular post-template-default single single-post postid-53 single-format-standard wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15 elementor-page elementor-page-53"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/metro-road-design-plan-2025-2/",
+  "final": "https://egovt.ovathemewp.com/metro-road-design-plan-2025-2/",
+  "status": 200,
+  "title": "Metro Road Design Plan  2025 - Egovt Theme",
+  "body": "wp-singular post-template-default single single-post postid-548 single-format-standard wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15 elementor-page elementor-page-548"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/metro-road-design-plan-2025/",
+  "final": "https://egovt.ovathemewp.com/metro-road-design-plan-2025/",
+  "status": 200,
+  "title": "Metro Road Design Plan 2025 - Egovt Theme",
+  "body": "wp-singular post-template-default single single-post postid-55 single-format-gallery wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15 elementor-page elementor-page-55"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/municipal-faqs/",
+  "final": "https://egovt.ovathemewp.com/municipal-faqs/",
+  "status": 200,
+  "title": "Environmental Safty - Egovt Theme",
+  "body": "wp-singular page-template page-template-elementor_header_footer page page-id-1204 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-template-full-width elementor-kit-15 elementor-page elementor-page-1204"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/my-account/",
+  "final": "https://egovt.ovathemewp.com/my-account/",
+  "status": 200,
+  "title": "My account - Egovt Theme",
+  "body": "wp-singular page-template-default page page-id-1129 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-account woocommerce-page woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/my-account/lost-password/",
+  "final": "https://egovt.ovathemewp.com/my-account/lost-password/",
+  "status": 200,
+  "title": "Lost password - Egovt Theme",
+  "body": "wp-singular page-template-default page page-id-1129 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-account woocommerce-page woocommerce-lost-password woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/new-australian-economic-culture-2/",
+  "final": "https://egovt.ovathemewp.com/new-australian-economic-culture-2/",
+  "status": 200,
+  "title": "New ustralian Economic Culture - Egovt Theme",
+  "body": "wp-singular post-template-default single single-post postid-549 single-format-standard wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15 elementor-page elementor-page-549"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/new-australian-economic-culture/",
+  "final": "https://egovt.ovathemewp.com/new-australian-economic-culture/",
+  "status": 200,
+  "title": "New Australian Economic Culture - Egovt Theme",
+  "body": "wp-singular post-template-default single single-post postid-54 single-format-standard wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15 elementor-page elementor-page-54"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/new-goverment-rules-enforced-in-tourisum/",
+  "final": "https://egovt.ovathemewp.com/new-goverment-rules-enforced-in-tourisum/",
+  "status": 200,
+  "title": "Urban Renewal Loans Available - Egovt Theme",
+  "body": "wp-singular post-template-default single single-post postid-544 single-format-standard wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15 elementor-page elementor-page-544"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/new-industrial-boom-2025-announcement/",
+  "final": "https://egovt.ovathemewp.com/new-industrial-boom-2025-announcement/",
+  "status": 200,
+  "title": "New Industrial Boom  2025: Announcement - Egovt Theme",
+  "body": "wp-singular post-template-default single single-post postid-543 single-format-standard wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15 elementor-page elementor-page-543"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/ova_dep/",
+  "final": "https://egovt.ovathemewp.com/ova_dep/",
+  "status": 200,
+  "title": "Department - Egovt Theme",
+  "body": "archive post-type-archive post-type-archive-ova_dep wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/ova_dep/agriculture-and-food/",
+  "final": "https://egovt.ovathemewp.com/ova_dep/agriculture-and-food/",
+  "status": 200,
+  "title": "Agriculture and Food - Egovt Theme",
+  "body": "wp-singular ova_dep-template-default single single-ova_dep postid-697 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15 elementor-page elementor-page-697"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/ova_dep/art-and-culture-2/",
+  "final": "https://egovt.ovathemewp.com/ova_dep/art-and-culture-2/",
+  "status": 200,
+  "title": "Art and Culture - Egovt Theme",
+  "body": "wp-singular ova_dep-template-default single single-ova_dep postid-694 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15 elementor-page elementor-page-694"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/ova_dep/business-administration/",
+  "final": "https://egovt.ovathemewp.com/ova_dep/business-administration/",
+  "status": 200,
+  "title": "Business &#038; Industry - Egovt Theme",
+  "body": "wp-singular ova_dep-template-default single single-ova_dep postid-718 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15 elementor-page elementor-page-718"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/ova_dep/constution-and-law/",
+  "final": "https://egovt.ovathemewp.com/ova_dep/constution-and-law/",
+  "status": 200,
+  "title": "Constution and Law - Egovt Theme",
+  "body": "wp-singular ova_dep-template-default single single-ova_dep postid-691 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15 elementor-page elementor-page-691"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/ova_dep/finance-and-economy/",
+  "final": "https://egovt.ovathemewp.com/ova_dep/finance-and-economy/",
+  "status": 200,
+  "title": "Finance and Economy - Egovt Theme",
+  "body": "wp-singular ova_dep-template-default single single-ova_dep postid-692 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15 elementor-page elementor-page-692"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/ova_dep/housing-and-land/",
+  "final": "https://egovt.ovathemewp.com/ova_dep/housing-and-land/",
+  "status": 200,
+  "title": "Housing and Land - Egovt Theme",
+  "body": "wp-singular ova_dep-template-default single single-ova_dep postid-696 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15 elementor-page elementor-page-696"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/ova_dep/page/2/",
+  "final": "https://egovt.ovathemewp.com/ova_dep/page/2/",
+  "status": 200,
+  "title": "Department - Page 2 - Egovt Theme",
+  "body": "archive paged post-type-archive post-type-archive-ova_dep paged-2 post-type-paged-2 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/ova_dep/park-and-recreation/",
+  "final": "https://egovt.ovathemewp.com/ova_dep/park-and-recreation/",
+  "status": 200,
+  "title": "Park and Recreation - Egovt Theme",
+  "body": "wp-singular ova_dep-template-default single single-ova_dep postid-695 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15 elementor-page elementor-page-695"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/ova_dep/policing-and-crime/",
+  "final": "https://egovt.ovathemewp.com/ova_dep/policing-and-crime/",
+  "status": 200,
+  "title": "Policing and Crime - Egovt Theme",
+  "body": "wp-singular ova_dep-template-default single single-ova_dep postid-698 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15 elementor-page elementor-page-698"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/ova_dep/roads-and-transport/",
+  "final": "https://egovt.ovathemewp.com/ova_dep/roads-and-transport/",
+  "status": 200,
+  "title": "Roads and Transport - Egovt Theme",
+  "body": "wp-singular ova_dep-template-default single single-ova_dep postid-693 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15 elementor-page elementor-page-693"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/ova_dir/",
+  "final": "https://egovt.ovathemewp.com/ova_dir/",
+  "status": 200,
+  "title": "Directories - Egovt Theme",
+  "body": "archive post-type-archive post-type-archive-ova_dir wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/ova_dir/bowling-point/",
+  "final": "https://egovt.ovathemewp.com/ova_dir/bowling-point/",
+  "status": 200,
+  "title": "Bowling Point - Egovt Theme",
+  "body": "wp-singular ova_dir-template-default single single-ova_dir postid-5686 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/ova_dir/community-centre/",
+  "final": "https://egovt.ovathemewp.com/ova_dir/community-centre/",
+  "status": 200,
+  "title": "Community Centre - Egovt Theme",
+  "body": "wp-singular ova_dir-template-default single single-ova_dir postid-5683 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/ova_dir/elementary-school/",
+  "final": "https://egovt.ovathemewp.com/ova_dir/elementary-school/",
+  "status": 200,
+  "title": "Elementary School - Egovt Theme",
+  "body": "wp-singular ova_dir-template-default single single-ova_dir postid-5685 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/ova_dir/high-school-2/",
+  "final": "https://egovt.ovathemewp.com/ova_dir/high-school-2/",
+  "status": 200,
+  "title": "Downtown Cinema - Egovt Theme",
+  "body": "wp-singular ova_dir-template-default single single-ova_dir postid-5681 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/ova_dir/high-school/",
+  "final": "https://egovt.ovathemewp.com/ova_dir/high-school/",
+  "status": 200,
+  "title": "High School - Egovt Theme",
+  "body": "wp-singular ova_dir-template-default single single-ova_dir postid-5680 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/ova_dir/post-office/",
+  "final": "https://egovt.ovathemewp.com/ova_dir/post-office/",
+  "status": 200,
+  "title": "Post Office - Egovt Theme",
+  "body": "wp-singular ova_dir-template-default single single-ova_dir postid-5556 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/ova_dir/recreation-centre/",
+  "final": "https://egovt.ovathemewp.com/ova_dir/recreation-centre/",
+  "status": 200,
+  "title": "Recreation Centre - Egovt Theme",
+  "body": "wp-singular ova_dir-template-default single single-ova_dir postid-5684 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/ova_dir/townpress-theatre/",
+  "final": "https://egovt.ovathemewp.com/ova_dir/townpress-theatre/",
+  "status": 200,
+  "title": "TownPress Theatre - Egovt Theme",
+  "body": "wp-singular ova_dir-template-default single single-ova_dir postid-5682 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/ova_doc/",
+  "final": "https://egovt.ovathemewp.com/ova_doc/",
+  "status": 200,
+  "title": "Document - Egovt Theme",
+  "body": "archive post-type-archive post-type-archive-ova_doc wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/ova_doc/budget-allocation-q3/",
+  "final": "https://egovt.ovathemewp.com/ova_doc/budget-allocation-q3/",
+  "status": 200,
+  "title": "Budget Allocation-Q3 - Egovt Theme",
+  "body": "wp-singular ova_doc-template-default single single-ova_doc postid-580 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15 elementor-page elementor-page-580"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/ova_doc/business-license-application/",
+  "final": "https://egovt.ovathemewp.com/ova_doc/business-license-application/",
+  "status": 200,
+  "title": "Business License Application - Egovt Theme",
+  "body": "wp-singular ova_doc-template-default single single-ova_doc postid-577 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15 elementor-page elementor-page-577"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/ova_doc/city-board-applications/",
+  "final": "https://egovt.ovathemewp.com/ova_doc/city-board-applications/",
+  "status": 200,
+  "title": "City Board Applications - Egovt Theme",
+  "body": "wp-singular ova_doc-template-default single single-ova_doc postid-588 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15 elementor-page elementor-page-588"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/ova_doc/covid-19-daily-updates/",
+  "final": "https://egovt.ovathemewp.com/ova_doc/covid-19-daily-updates/",
+  "status": 200,
+  "title": "Covid-19 Daily Updates - Egovt Theme",
+  "body": "wp-singular ova_doc-template-default single single-ova_doc postid-579 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15 elementor-page elementor-page-579"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/ova_doc/economy-growth-report/",
+  "final": "https://egovt.ovathemewp.com/ova_doc/economy-growth-report/",
+  "status": 200,
+  "title": "Economy Growth Report - Egovt Theme",
+  "body": "wp-singular ova_doc-template-default single single-ova_doc postid-586 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15 elementor-page elementor-page-586"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/ova_doc/energy-recycle-plan/",
+  "final": "https://egovt.ovathemewp.com/ova_doc/energy-recycle-plan/",
+  "status": 200,
+  "title": "Energy Recycle Plan - Egovt Theme",
+  "body": "wp-singular ova_doc-template-default single single-ova_doc postid-581 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15 elementor-page elementor-page-581"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/ova_doc/health-and-security-plan/",
+  "final": "https://egovt.ovathemewp.com/ova_doc/health-and-security-plan/",
+  "status": 200,
+  "title": "Health and Security Plan - Egovt Theme",
+  "body": "wp-singular ova_doc-template-default single single-ova_doc postid-584 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15 elementor-page elementor-page-584"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/ova_doc/housing-developement-plan-2/",
+  "final": "https://egovt.ovathemewp.com/ova_doc/housing-developement-plan-2/",
+  "status": 200,
+  "title": "Housing Developement Plan - Egovt Theme",
+  "body": "wp-singular ova_doc-template-default single single-ova_doc postid-583 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15 elementor-page elementor-page-583"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/ova_doc/housing-developement-plan/",
+  "final": "https://egovt.ovathemewp.com/ova_doc/housing-developement-plan/",
+  "status": 200,
+  "title": "Housing Developement Plan - Egovt Theme",
+  "body": "wp-singular ova_doc-template-default single single-ova_doc postid-484 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15 elementor-page elementor-page-484"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/ova_doc/road-transport-forms/",
+  "final": "https://egovt.ovathemewp.com/ova_doc/road-transport-forms/",
+  "status": 200,
+  "title": "Road Transport Forms - Egovt Theme",
+  "body": "wp-singular ova_doc-template-default single single-ova_doc postid-587 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15 elementor-page elementor-page-587"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/ova_doc/rural-devlopement-reports/",
+  "final": "https://egovt.ovathemewp.com/ova_doc/rural-devlopement-reports/",
+  "status": 200,
+  "title": "Rural Devlopement Reports - Egovt Theme",
+  "body": "wp-singular ova_doc-template-default single single-ova_doc postid-578 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15 elementor-page elementor-page-578"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/ova_doc/traffic-strategic-plan/",
+  "final": "https://egovt.ovathemewp.com/ova_doc/traffic-strategic-plan/",
+  "status": 200,
+  "title": "Traffic Strategic Plan - Egovt Theme",
+  "body": "wp-singular ova_doc-template-default single single-ova_doc postid-585 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15 elementor-page elementor-page-585"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/ova_doc/veichle-parking-license/",
+  "final": "https://egovt.ovathemewp.com/ova_doc/veichle-parking-license/",
+  "status": 200,
+  "title": "Veichle Parking License - Egovt Theme",
+  "body": "wp-singular ova_doc-template-default single single-ova_doc postid-589 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15 elementor-page elementor-page-589"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/ova_doc/yearly-financial-report-2022/",
+  "final": "https://egovt.ovathemewp.com/ova_doc/yearly-financial-report-2022/",
+  "status": 200,
+  "title": "Yearly Financial Report-2022 - Egovt Theme",
+  "body": "wp-singular ova_doc-template-default single single-ova_doc postid-582 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15 elementor-page elementor-page-582"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/ova_por/",
+  "final": "https://egovt.ovathemewp.com/ova_por/",
+  "status": 200,
+  "title": "Portfolio - Egovt Theme",
+  "body": "archive post-type-archive post-type-archive-ova_por wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/ova_por/?archive_type_portfolio=classic",
+  "final": "https://egovt.ovathemewp.com/ova_por/?archive_type_portfolio=classic",
+  "status": 200,
+  "title": "Portfolio - Egovt Theme",
+  "body": "archive post-type-archive post-type-archive-ova_por wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/ova_por/?archive_type_portfolio=grid",
+  "final": "https://egovt.ovathemewp.com/ova_por/?archive_type_portfolio=grid",
+  "status": 200,
+  "title": "Portfolio - Egovt Theme",
+  "body": "archive post-type-archive post-type-archive-ova_por wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/ova_por/?archive_type_portfolio=modern",
+  "final": "https://egovt.ovathemewp.com/ova_por/?archive_type_portfolio=modern",
+  "status": 200,
+  "title": "Portfolio - Egovt Theme",
+  "body": "archive post-type-archive post-type-archive-ova_por wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/ova_por/business-agencies/",
+  "final": "https://egovt.ovathemewp.com/ova_por/business-agencies/",
+  "status": 200,
+  "title": "Classic Buildings - Egovt Theme",
+  "body": "wp-singular ova_por-template-default single single-ova_por postid-968 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15 elementor-page elementor-page-968"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/ova_por/business-portfolio/",
+  "final": "https://egovt.ovathemewp.com/ova_por/business-portfolio/",
+  "status": 200,
+  "title": "Mayor of Arsonia - Egovt Theme",
+  "body": "wp-singular ova_por-template-default single single-ova_por postid-1073 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15 elementor-page elementor-page-1073"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/ova_por/cinema-teatre/",
+  "final": "https://egovt.ovathemewp.com/ova_por/cinema-teatre/",
+  "status": 200,
+  "title": "Rome Art Museum - Egovt Theme",
+  "body": "wp-singular ova_por-template-default single single-ova_por postid-965 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15 elementor-page elementor-page-965"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/ova_por/classic-buildings/",
+  "final": "https://egovt.ovathemewp.com/ova_por/classic-buildings/",
+  "status": 200,
+  "title": "Business Agencies - Egovt Theme",
+  "body": "wp-singular ova_por-template-default single single-ova_por postid-1075 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15 elementor-page elementor-page-1075"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/ova_por/historical-buildings/",
+  "final": "https://egovt.ovathemewp.com/ova_por/historical-buildings/",
+  "status": 200,
+  "title": "Spring Conference - Egovt Theme",
+  "body": "wp-singular ova_por-template-default single single-ova_por postid-967 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15 elementor-page elementor-page-967"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/ova_por/mayor-of-arsonia/",
+  "final": "https://egovt.ovathemewp.com/ova_por/mayor-of-arsonia/",
+  "status": 200,
+  "title": "business portfolio - Egovt Theme",
+  "body": "wp-singular ova_por-template-default single single-ova_por postid-952 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15 elementor-page elementor-page-952"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/ova_por/melton-art-museum/",
+  "final": "https://egovt.ovathemewp.com/ova_por/melton-art-museum/",
+  "status": 200,
+  "title": "Town of Rome - Egovt Theme",
+  "body": "wp-singular ova_por-template-default single single-ova_por postid-966 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15 elementor-page elementor-page-966"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/ova_por/metro-train-station/",
+  "final": "https://egovt.ovathemewp.com/ova_por/metro-train-station/",
+  "status": 200,
+  "title": "Metro Train Station - Egovt Theme",
+  "body": "wp-singular ova_por-template-default single single-ova_por postid-972 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15 elementor-page elementor-page-972"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/ova_por/modern-buildings/",
+  "final": "https://egovt.ovathemewp.com/ova_por/modern-buildings/",
+  "status": 200,
+  "title": "Summer Conference - Egovt Theme",
+  "body": "wp-singular ova_por-template-default single single-ova_por postid-971 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15 elementor-page elementor-page-971"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/ova_por/museum-of-new-york/",
+  "final": "https://egovt.ovathemewp.com/ova_por/museum-of-new-york/",
+  "status": 200,
+  "title": "Town of Maximonia - Egovt Theme",
+  "body": "wp-singular ova_por-template-default single single-ova_por postid-1072 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15 elementor-page elementor-page-1072"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/ova_por/museum-of-new-york/?single_type_portfolio=type1",
+  "final": "https://egovt.ovathemewp.com/ova_por/museum-of-new-york/?single_type_portfolio=type1",
+  "status": 200,
+  "title": "Town of Maximonia - Egovt Theme",
+  "body": "wp-singular ova_por-template-default single single-ova_por postid-1072 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15 elementor-page elementor-page-1072"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/ova_por/museum-of-new-york/?single_type_portfolio=type2",
+  "final": "https://egovt.ovathemewp.com/ova_por/museum-of-new-york/?single_type_portfolio=type2",
+  "status": 200,
+  "title": "Town of Maximonia - Egovt Theme",
+  "body": "wp-singular ova_por-template-default single single-ova_por postid-1072 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15 elementor-page elementor-page-1072"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/ova_por/rome-art-museum/",
+  "final": "https://egovt.ovathemewp.com/ova_por/rome-art-museum/",
+  "status": 200,
+  "title": "Cinema Teatre - Egovt Theme",
+  "body": "wp-singular ova_por-template-default single single-ova_por postid-1070 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15 elementor-page elementor-page-1070"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/ova_por/springconference/",
+  "final": "https://egovt.ovathemewp.com/ova_por/springconference/",
+  "status": 200,
+  "title": "Historical Buildings - Egovt Theme",
+  "body": "wp-singular ova_por-template-default single single-ova_por postid-1074 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15 elementor-page elementor-page-1074"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/ova_por/summer-conference/",
+  "final": "https://egovt.ovathemewp.com/ova_por/summer-conference/",
+  "status": 200,
+  "title": "Modern Buildings - Egovt Theme",
+  "body": "wp-singular ova_por-template-default single single-ova_por postid-969 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15 elementor-page elementor-page-969"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/ova_por/town-of-maximonia/",
+  "final": "https://egovt.ovathemewp.com/ova_por/town-of-maximonia/",
+  "status": 200,
+  "title": "Museum of New york - Egovt Theme",
+  "body": "wp-singular ova_por-template-default single single-ova_por postid-964 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15 elementor-page elementor-page-964"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/ova_por/town-of-rome/",
+  "final": "https://egovt.ovathemewp.com/ova_por/town-of-rome/",
+  "status": 200,
+  "title": "Melton Art Museum - Egovt Theme",
+  "body": "wp-singular ova_por-template-default single single-ova_por postid-1071 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15 elementor-page elementor-page-1071"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/ova_sev/",
+  "final": "https://egovt.ovathemewp.com/ova_sev/",
+  "status": 200,
+  "title": "Service - Egovt Theme",
+  "body": "archive post-type-archive post-type-archive-ova_sev wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/ova_sev/business-and-industry-2/",
+  "final": "https://egovt.ovathemewp.com/ova_sev/business-and-industry-2/",
+  "status": 200,
+  "title": "Travel &#038; Immigration - Egovt Theme",
+  "body": "wp-singular ova_sev-template-default single single-ova_sev postid-802 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15 elementor-page elementor-page-802"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/ova_sev/business-and-industry-3/",
+  "final": "https://egovt.ovathemewp.com/ova_sev/business-and-industry-3/",
+  "status": 200,
+  "title": "Business and Industry - Egovt Theme",
+  "body": "wp-singular ova_sev-template-default single single-ova_sev postid-806 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15 elementor-page elementor-page-806"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/ova_sev/culture-recreation/",
+  "final": "https://egovt.ovathemewp.com/ova_sev/culture-recreation/",
+  "status": 200,
+  "title": "Culture &#038; Recreation - Egovt Theme",
+  "body": "wp-singular ova_sev-template-default single single-ova_sev postid-807 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15 elementor-page elementor-page-807"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/ova_sev/education-and-skills/",
+  "final": "https://egovt.ovathemewp.com/ova_sev/education-and-skills/",
+  "status": 200,
+  "title": "Education and skills - Egovt Theme",
+  "body": "wp-singular ova_sev-template-default single single-ova_sev postid-810 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15 elementor-page elementor-page-810"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/ova_sev/health-and-securities/",
+  "final": "https://egovt.ovathemewp.com/ova_sev/health-and-securities/",
+  "status": 200,
+  "title": "Health and Securities - Egovt Theme",
+  "body": "wp-singular ova_sev-template-default single single-ova_sev postid-804 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15 elementor-page elementor-page-804"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/ova_sev/jobs-and-unemployment/",
+  "final": "https://egovt.ovathemewp.com/ova_sev/jobs-and-unemployment/",
+  "status": 200,
+  "title": "Jobs and Unemployment - Egovt Theme",
+  "body": "wp-singular ova_sev-template-default single single-ova_sev postid-805 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15 elementor-page elementor-page-805"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/ova_sev/justice-safty-and-the-law/",
+  "final": "https://egovt.ovathemewp.com/ova_sev/justice-safty-and-the-law/",
+  "status": 200,
+  "title": "Justice, Safty and the law - Egovt Theme",
+  "body": "wp-singular ova_sev-template-default single single-ova_sev postid-809 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15 elementor-page elementor-page-809"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/ova_sev/roads-transportation/",
+  "final": "https://egovt.ovathemewp.com/ova_sev/roads-transportation/",
+  "status": 200,
+  "title": "Roads &#038; Transportation - Egovt Theme",
+  "body": "wp-singular ova_sev-template-default single single-ova_sev postid-808 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15 elementor-page elementor-page-808"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/ova_sev/your-goverment/",
+  "final": "https://egovt.ovathemewp.com/ova_sev/your-goverment/",
+  "status": 200,
+  "title": "Your Goverment - Egovt Theme",
+  "body": "wp-singular ova_sev-template-default single single-ova_sev postid-803 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15 elementor-page elementor-page-803"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/page-service/",
+  "final": "https://egovt.ovathemewp.com/page-service/",
+  "status": 200,
+  "title": "Page Service - Egovt Theme",
+  "body": "wp-singular page-template page-template-elementor_header_footer page page-id-823 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-template-full-width elementor-kit-15 elementor-page elementor-page-823"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/page-team/",
+  "final": "https://egovt.ovathemewp.com/page-team/",
+  "status": 200,
+  "title": "Page Team - Egovt Theme",
+  "body": "wp-singular page-template page-template-elementor_header_footer page page-id-408 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-template-full-width elementor-kit-15 elementor-page elementor-page-408"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/product-category/accessories/",
+  "final": "https://egovt.ovathemewp.com/product-category/accessories/",
+  "status": 200,
+  "title": "Accessories - Egovt Theme",
+  "body": "archive tax-product_cat term-accessories term-71 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce woocommerce-page woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/product-category/clothing/",
+  "final": "https://egovt.ovathemewp.com/product-category/clothing/",
+  "status": 200,
+  "title": "Clothing - Egovt Theme",
+  "body": "archive tax-product_cat term-clothing term-70 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce woocommerce-page woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/product-category/decor/",
+  "final": "https://egovt.ovathemewp.com/product-category/decor/",
+  "status": 200,
+  "title": "Decor - Egovt Theme",
+  "body": "archive tax-product_cat term-decor term-72 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce woocommerce-page woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/product-category/hoodies/",
+  "final": "https://egovt.ovathemewp.com/product-category/hoodies/",
+  "status": 200,
+  "title": "Hoodies - Egovt Theme",
+  "body": "archive tax-product_cat term-hoodies term-69 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce woocommerce-page woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/product-category/tshirts/",
+  "final": "https://egovt.ovathemewp.com/product-category/tshirts/",
+  "status": 200,
+  "title": "Tshirts - Egovt Theme",
+  "body": "archive tax-product_cat term-tshirts term-73 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce woocommerce-page woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/product-category/uncategorized/",
+  "final": "https://egovt.ovathemewp.com/product-category/uncategorized/",
+  "status": 200,
+  "title": "Uncategorized - Egovt Theme",
+  "body": "archive tax-product_cat term-uncategorized term-68 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce woocommerce-page woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/product-tag/city/",
+  "final": "https://egovt.ovathemewp.com/product-tag/city/",
+  "status": 200,
+  "title": "City - Egovt Theme",
+  "body": "archive tax-product_tag term-city term-74 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce woocommerce-page woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/product-tag/design/",
+  "final": "https://egovt.ovathemewp.com/product-tag/design/",
+  "status": 200,
+  "title": "Design - Egovt Theme",
+  "body": "archive tax-product_tag term-design term-78 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce woocommerce-page woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/product-tag/development/",
+  "final": "https://egovt.ovathemewp.com/product-tag/development/",
+  "status": 200,
+  "title": "Development - Egovt Theme",
+  "body": "archive tax-product_tag term-development term-76 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce woocommerce-page woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/product-tag/goverment/",
+  "final": "https://egovt.ovathemewp.com/product-tag/goverment/",
+  "status": 200,
+  "title": "Goverment - Egovt Theme",
+  "body": "archive tax-product_tag term-goverment term-77 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce woocommerce-page woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/product-tag/road/",
+  "final": "https://egovt.ovathemewp.com/product-tag/road/",
+  "status": 200,
+  "title": "Road - Egovt Theme",
+  "body": "archive tax-product_tag term-road term-75 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce woocommerce-page woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/product-tag/smart-city/",
+  "final": "https://egovt.ovathemewp.com/product-tag/smart-city/",
+  "status": 200,
+  "title": "Smart City - Egovt Theme",
+  "body": "archive tax-product_tag term-smart-city term-79 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce woocommerce-page woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/product/angle-music-2/",
+  "final": "https://egovt.ovathemewp.com/product/angle-music-2/",
+  "status": 200,
+  "title": "Angle Music #2 - Egovt Theme",
+  "body": "wp-singular product-template-default single single-product postid-1145 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce woocommerce-page woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/product/black-logo-t-shirt/",
+  "final": "https://egovt.ovathemewp.com/product/black-logo-t-shirt/",
+  "status": 200,
+  "title": "Black Logo T-Shirt - Egovt Theme",
+  "body": "wp-singular product-template-default single single-product postid-1149 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce woocommerce-page woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/product/blue-light-woo-poster/",
+  "final": "https://egovt.ovathemewp.com/product/blue-light-woo-poster/",
+  "status": 200,
+  "title": "Blue Light Woo Poster - Egovt Theme",
+  "body": "wp-singular product-template-default single single-product postid-1136 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce woocommerce-page woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/product/blue-woo-poster/",
+  "final": "https://egovt.ovathemewp.com/product/blue-woo-poster/",
+  "status": 200,
+  "title": "Blue Woo Poster - Egovt Theme",
+  "body": "wp-singular product-template-default single single-product postid-1148 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce woocommerce-page woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/product/fit-blazer-hoodies/",
+  "final": "https://egovt.ovathemewp.com/product/fit-blazer-hoodies/",
+  "status": 200,
+  "title": "Fit Blazer Hoodies - Egovt Theme",
+  "body": "wp-singular product-template-default single single-product postid-1150 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce woocommerce-page woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/product/grey-woo-poster/",
+  "final": "https://egovt.ovathemewp.com/product/grey-woo-poster/",
+  "status": 200,
+  "title": "Grey Woo Poster - Egovt Theme",
+  "body": "wp-singular product-template-default single single-product postid-1147 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce woocommerce-page woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/product/light-green-t-shirt/",
+  "final": "https://egovt.ovathemewp.com/product/light-green-t-shirt/",
+  "status": 200,
+  "title": "Light Green  T-Shirt - Egovt Theme",
+  "body": "wp-singular product-template-default single single-product postid-1137 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce woocommerce-page woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/product/modern-black-hoodies/",
+  "final": "https://egovt.ovathemewp.com/product/modern-black-hoodies/",
+  "status": 200,
+  "title": "Modern-Black Hoodies - Egovt Theme",
+  "body": "wp-singular product-template-default single single-product postid-1152 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce woocommerce-page woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/product/modern-grey-hoodies/",
+  "final": "https://egovt.ovathemewp.com/product/modern-grey-hoodies/",
+  "status": 200,
+  "title": "Modern Grey Hoodies - Egovt Theme",
+  "body": "wp-singular product-template-default single single-product postid-1164 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce woocommerce-page woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/product/music-album-1/",
+  "final": "https://egovt.ovathemewp.com/product/music-album-1/",
+  "status": 200,
+  "title": "Music Album-#1 - Egovt Theme",
+  "body": "wp-singular product-template-default single single-product postid-1130 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce woocommerce-page woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/product/music-collection-1/",
+  "final": "https://egovt.ovathemewp.com/product/music-collection-1/",
+  "status": 200,
+  "title": "Music Collection-#1 - Egovt Theme",
+  "body": "wp-singular product-template-default single single-product postid-1132 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce woocommerce-page woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/product/ninja-woo-poster/",
+  "final": "https://egovt.ovathemewp.com/product/ninja-woo-poster/",
+  "status": 200,
+  "title": "Ninja Woo Poster - Egovt Theme",
+  "body": "wp-singular product-template-default single single-product postid-1166 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce woocommerce-page woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/product/red-woo-poster/",
+  "final": "https://egovt.ovathemewp.com/product/red-woo-poster/",
+  "status": 200,
+  "title": "Red Woo Poster - Egovt Theme",
+  "body": "wp-singular product-template-default single single-product postid-1133 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce woocommerce-page woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/product/shawl-black-t-shirt/",
+  "final": "https://egovt.ovathemewp.com/product/shawl-black-t-shirt/",
+  "status": 200,
+  "title": "Shawl-Black T-Shirt - Egovt Theme",
+  "body": "wp-singular product-template-default single single-product postid-1153 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce woocommerce-page woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/product/shawl-white-t-shirt/",
+  "final": "https://egovt.ovathemewp.com/product/shawl-white-t-shirt/",
+  "status": 200,
+  "title": "Shawl-White T-Shirt - Egovt Theme",
+  "body": "wp-singular product-template-default single single-product postid-1151 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce woocommerce-page woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/product/v-neck-t-shirt/",
+  "final": "https://egovt.ovathemewp.com/product/v-neck-t-shirt/",
+  "status": 200,
+  "title": "V-Neck T-Shirt - Egovt Theme",
+  "body": "wp-singular product-template-default single single-product postid-1144 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce woocommerce-page woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/product/woo-grey-t-shirt/",
+  "final": "https://egovt.ovathemewp.com/product/woo-grey-t-shirt/",
+  "status": 200,
+  "title": "Woo Grey T-Shirt - Egovt Theme",
+  "body": "wp-singular product-template-default single single-product postid-1165 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce woocommerce-page woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/product/woo-logo-hoody-black/",
+  "final": "https://egovt.ovathemewp.com/product/woo-logo-hoody-black/",
+  "status": 200,
+  "title": "Woo Logo Hoody Black - Egovt Theme",
+  "body": "wp-singular product-template-default single single-product postid-1134 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce woocommerce-page woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/product/woo-logo-hoody-red/",
+  "final": "https://egovt.ovathemewp.com/product/woo-logo-hoody-red/",
+  "status": 200,
+  "title": "Woo Logo Hoody Red - Egovt Theme",
+  "body": "wp-singular product-template-default single single-product postid-1135 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce woocommerce-page woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/product/woo-logo-hoody/",
+  "final": "https://egovt.ovathemewp.com/product/woo-logo-hoody/",
+  "status": 200,
+  "title": "Woo Logo Hoody - Egovt Theme",
+  "body": "wp-singular product-template-default single single-product postid-1146 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce woocommerce-page woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/shop/",
+  "final": "https://egovt.ovathemewp.com/shop/",
+  "status": 200,
+  "title": "Shop - Egovt Theme",
+  "body": "archive post-type-archive post-type-archive-product wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-shop woocommerce woocommerce-page woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/shop/page/1/",
+  "final": "https://egovt.ovathemewp.com/shop/",
+  "status": 200,
+  "title": "Shop - Egovt Theme",
+  "body": "archive post-type-archive post-type-archive-product wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-shop woocommerce woocommerce-page woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/shop/page/2/",
+  "final": "https://egovt.ovathemewp.com/shop/page/2/",
+  "status": 200,
+  "title": "Shop - Page 2 - Egovt Theme",
+  "body": "archive paged post-type-archive post-type-archive-product paged-2 post-type-paged-2 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-shop woocommerce woocommerce-page woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/summer-nights-at-the-library-2/",
+  "final": "https://egovt.ovathemewp.com/summer-nights-at-the-library-2/",
+  "status": 200,
+  "title": "Summer Nights at the  Library - Egovt Theme",
+  "body": "wp-singular post-template-default single single-post postid-546 single-format-standard wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15 elementor-page elementor-page-546"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/summer-nights-at-the-library/",
+  "final": "https://egovt.ovathemewp.com/summer-nights-at-the-library/",
+  "status": 200,
+  "title": "Summer Nights at the Library - Egovt Theme",
+  "body": "wp-singular post-template-default single single-post postid-52 single-format-standard wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15 elementor-page elementor-page-52"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/tag_dir/cinema/",
+  "final": "https://egovt.ovathemewp.com/tag_dir/cinema/",
+  "status": 200,
+  "title": "Cinema - Egovt Theme",
+  "body": "archive tax-tag_dir term-cinema term-101 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/tag_dir/directory/",
+  "final": "https://egovt.ovathemewp.com/tag_dir/directory/",
+  "status": 200,
+  "title": "Directory - Egovt Theme",
+  "body": "archive tax-tag_dir term-directory term-97 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/tag/city/",
+  "final": "https://egovt.ovathemewp.com/tag/city/",
+  "status": 200,
+  "title": "City - Egovt Theme",
+  "body": "archive tag tag-city tag-3 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/tag/design/",
+  "final": "https://egovt.ovathemewp.com/tag/design/",
+  "status": 200,
+  "title": "Design - Egovt Theme",
+  "body": "archive tag tag-design tag-31 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/tag/developement/",
+  "final": "https://egovt.ovathemewp.com/tag/developement/",
+  "status": 200,
+  "title": "Developement - Egovt Theme",
+  "body": "archive tag tag-developement tag-4 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/tag/goverment/",
+  "final": "https://egovt.ovathemewp.com/tag/goverment/",
+  "status": 200,
+  "title": "Goverment - Egovt Theme",
+  "body": "archive tag tag-goverment tag-33 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/tag/meeting/",
+  "final": "https://egovt.ovathemewp.com/tag/meeting/",
+  "status": 200,
+  "title": "Meeting - Egovt Theme",
+  "body": "archive tag tag-meeting tag-35 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/tag/road/",
+  "final": "https://egovt.ovathemewp.com/tag/road/",
+  "status": 200,
+  "title": "Road - Egovt Theme",
+  "body": "archive tag tag-road tag-5 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/tag/smart-city/",
+  "final": "https://egovt.ovathemewp.com/tag/smart-city/",
+  "status": 200,
+  "title": "Smart City - Egovt Theme",
+  "body": "archive tag tag-smart-city tag-32 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/team/",
+  "final": "https://egovt.ovathemewp.com/team/",
+  "status": 200,
+  "title": "Teams - Egovt Theme",
+  "body": "archive post-type-archive post-type-archive-team wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/team/carleno-emo/",
+  "final": "https://egovt.ovathemewp.com/team/carleno-emo/",
+  "status": 200,
+  "title": "Kanaov Marla - Egovt Theme",
+  "body": "wp-singular team-template-default single single-team postid-356 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15 elementor-page elementor-page-356"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/team/cevin-peter/",
+  "final": "https://egovt.ovathemewp.com/team/cevin-peter/",
+  "status": 200,
+  "title": "Wenalbooze - Egovt Theme",
+  "body": "wp-singular team-template-default single single-team postid-333 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15 elementor-page elementor-page-333"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/team/charlee-mangar/",
+  "final": "https://egovt.ovathemewp.com/team/charlee-mangar/",
+  "status": 200,
+  "title": "Donald Trump - Egovt Theme",
+  "body": "wp-singular team-template-default single single-team postid-361 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15 elementor-page elementor-page-361"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/team/dinaval-jall/",
+  "final": "https://egovt.ovathemewp.com/team/dinaval-jall/",
+  "status": 200,
+  "title": "Robert Peterson - Egovt Theme",
+  "body": "wp-singular team-template-default single single-team postid-360 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15 elementor-page elementor-page-360"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/team/donald-trump/",
+  "final": "https://egovt.ovathemewp.com/team/donald-trump/",
+  "status": 200,
+  "title": "Charlee Mangar - Egovt Theme",
+  "body": "wp-singular team-template-default single single-team postid-362 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15 elementor-page elementor-page-362"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/team/kanaov-marla/",
+  "final": "https://egovt.ovathemewp.com/team/kanaov-marla/",
+  "status": 200,
+  "title": "Carleno Emo - Egovt Theme",
+  "body": "wp-singular team-template-default single single-team postid-359 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15 elementor-page elementor-page-359"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/team/robert-peterson/",
+  "final": "https://egovt.ovathemewp.com/team/robert-peterson/",
+  "status": 200,
+  "title": "Dinaval Jall - Egovt Theme",
+  "body": "wp-singular team-template-default single single-team postid-357 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15 elementor-page elementor-page-357"
+ },
+ {
+  "url": "https://egovt.ovathemewp.com/team/wenalbooze/",
+  "final": "https://egovt.ovathemewp.com/team/wenalbooze/",
+  "status": 200,
+  "title": "Cevin Peter - Egovt Theme",
+  "body": "wp-singular team-template-default single single-team postid-358 wp-theme-egovt wp-child-theme-egovt-child theme-egovt woocommerce-no-js give-test-mode give-page elementor-default elementor-kit-15 elementor-page elementor-page-358"
+ }
+]

@@ -1,0 +1,4052 @@
+{
+ "/": {
+  "title": "Egovt Theme - Just another WordPress site"
+ },
+ "/about/": {
+  "title": "About - Egovt Theme",
+  "banner": "/wp/2020/07/bg_single_team.jpg",
+  "heading": "About",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "About",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/author/admin/": {
+  "title": "admin - Egovt Theme",
+  "banner": "/wp/2020/07/1-1.jpg",
+  "heading": "admin",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Articles posted by admin\"",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/author/admin/page/2/": {
+  "title": "admin - Page 2 - Egovt Theme",
+  "banner": "/wp/2020/07/3-1.jpg",
+  "heading": "admin",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Articles posted by admin\"",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/become-a-volunteer/": {
+  "title": "Become A Volunteer - Egovt Theme",
+  "banner": "/wp/2021/01/Img-Over2.jpg",
+  "heading": "Become A Volunteer",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Become A Volunteer",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/blog/": {
+  "title": "Blog - Egovt Theme",
+  "banner": "/wp/2020/07/bg_blog.jpg",
+  "heading": "Blog",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Blog",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/blog/?layout_sidebar=layout_1c": {
+  "title": "Blog - Egovt Theme",
+  "banner": "/wp/2020/07/bg_blog.jpg",
+  "heading": "Blog",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Blog",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/blog/?layout_sidebar=layout_2r": {
+  "title": "Blog - Egovt Theme",
+  "banner": "/wp/2020/07/bg_blog.jpg",
+  "heading": "Blog",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Blog",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/blog/page/2/": {
+  "title": "Blog - Page 2 - Egovt Theme",
+  "banner": "/wp/2020/07/bg_blog.jpg",
+  "heading": "Blog",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Blog",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/blog/page/2/?layout_sidebar=layout_1c": {
+  "title": "Blog - Page 2 - Egovt Theme",
+  "banner": "/wp/2020/07/bg_blog.jpg",
+  "heading": "Blog",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Blog",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/blog/page/2/?layout_sidebar=layout_2r": {
+  "title": "Blog - Page 2 - Egovt Theme",
+  "banner": "/wp/2020/07/bg_blog.jpg",
+  "heading": "Blog",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Blog",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/cart/": {
+  "title": "Cart - Egovt Theme",
+  "banner": "/wp/2020/08/shop_bg_header.jpg",
+  "heading": "Cart",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Cart",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/cat_dep/culture/": {
+  "title": "Culture - Egovt Theme",
+  "banner": "/wp/2020/07/bg_department.jpg",
+  "heading": "Culture",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Culture",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/cat_dep/culture/page/2/": {
+  "title": "Culture - Page 2 - Egovt Theme",
+  "banner": "/wp/2020/07/bg_department.jpg",
+  "heading": "Culture",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Culture",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/cat_dir/education/": {
+  "title": "Education - Egovt Theme",
+  "banner": "/wp/2023/09/Elementary-School-1024x640-1.jpeg",
+  "heading": "Education",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Education",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/cat_dir/entertainment/": {
+  "title": "Entertainment - Egovt Theme",
+  "banner": "/wp/2023/09/Bowling-Point.jpeg",
+  "heading": "Entertainment",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Entertainment",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/cat_dir/public-services/": {
+  "title": "Public Services - Egovt Theme",
+  "banner": "/wp/2023/09/Bowling-Point.jpeg",
+  "heading": "Public Services",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Public Services",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/cat_doc/business-reports/": {
+  "title": "Business Reports - Egovt Theme",
+  "banner": "/wp/2020/07/Financial_Briefing_Update_for_the_Year.jpg",
+  "heading": "Business Reports",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Business Reports",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/cat_doc/city-reports/": {
+  "title": "City Reports - Egovt Theme",
+  "banner": "/wp/2020/07/Financial_Briefing_Update_for_the_Year.jpg",
+  "heading": "City Reports",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "City Reports",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/cat_doc/finance-economy/": {
+  "title": "Finance &amp; Economy - Egovt Theme",
+  "banner": "/wp/2020/07/Financial_Briefing_Update_for_the_Year.jpg",
+  "heading": "Finance & Economy",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Finance & Economy",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/cat_doc/public-works/": {
+  "title": "Public Works - Egovt Theme",
+  "banner": "/wp/2020/07/Financial_Briefing_Update_for_the_Year.jpg",
+  "heading": "Public Works",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Public Works",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/cat_doc/roads-transport/": {
+  "title": "Roads &amp; Transport - Egovt Theme",
+  "banner": "/wp/2020/07/Financial_Briefing_Update_for_the_Year.jpg",
+  "heading": "Roads & Transport",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Roads & Transport",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/cat_por/business/": {
+  "title": "Business - Egovt Theme",
+  "banner": "/wp/2020/07/bg_department.jpg",
+  "heading": "Business",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Business",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/cat_por/culture/": {
+  "title": "Culture - Egovt Theme",
+  "banner": "/wp/2020/07/bg_department.jpg",
+  "heading": "Culture",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Culture",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/cat_por/events/": {
+  "title": "Events - Egovt Theme",
+  "banner": "/wp/2020/07/bg_department.jpg",
+  "heading": "Events",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Events",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/cat_por/goverment/": {
+  "title": "Goverment - Egovt Theme",
+  "banner": "/wp/2020/07/bg_department.jpg",
+  "heading": "Goverment",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Goverment",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/cat_por/public-places/": {
+  "title": "Public Places - Egovt Theme",
+  "banner": "/wp/2020/07/bg_department.jpg",
+  "heading": "Public Places",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Public Places",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/cat_team/city-council-president/": {
+  "title": "City Council President - Egovt Theme",
+  "banner": "/wp/2020/07/bg_blog.jpg",
+  "heading": "City Council President",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "City Council President",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/category/city-news/": {
+  "title": "City News - Egovt Theme",
+  "banner": "/wp/2020/07/1-1.jpg",
+  "heading": null,
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "City News",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/category/community/": {
+  "title": "Community - Egovt Theme",
+  "banner": "/wp/2020/07/1-1.jpg",
+  "heading": null,
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Community",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/category/culture/": {
+  "title": "Culture - Egovt Theme",
+  "banner": "/wp/2020/07/5-1.jpg",
+  "heading": null,
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Culture",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/category/devlopement/": {
+  "title": "Devlopement - Egovt Theme",
+  "banner": "/wp/2020/07/2-1.jpg",
+  "heading": null,
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Devlopement",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/category/goverment/": {
+  "title": "Goverment - Egovt Theme",
+  "banner": "/wp/2020/07/8-1.jpg",
+  "heading": null,
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Goverment",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/category/tourism/": {
+  "title": "Tourism - Egovt Theme",
+  "banner": "/wp/2020/07/7-1.jpg",
+  "heading": null,
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Tourism",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/checkout/": {
+  "title": "Cart - Egovt Theme",
+  "banner": "/wp/2020/08/shop_bg_header.jpg",
+  "heading": "Cart",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Cart",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/city-unemployment-dips-to-3-9/": {
+  "title": "New Industrial Boom 2025: Announcement - Egovt Theme",
+  "banner": "/wp/2020/07/8-1.jpg",
+  "heading": "New Industrial Boom 2025: Announcement",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Goverment",
+    "href": "/category/goverment/"
+   },
+   {
+    "label": "New Industrial Boom 2025: Announcement",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/coming-soon/": {
+  "title": "Coming Soon - Egovt Theme"
+ },
+ "/contact-1/": {
+  "title": "Contact 1 - Egovt Theme",
+  "banner": "/wp/2020/09/bg_contact-2.jpg",
+  "heading": "Contact 1",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Contact 1",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/contact-2/": {
+  "title": "Contact 2 - Egovt Theme",
+  "banner": "/wp/2020/09/bg_contact-2.jpg",
+  "heading": "Contact 2",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Contact 2",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/coveryee-desert-solow-ride-view/": {
+  "title": "Dalvan Museum Street Art View - Egovt Theme",
+  "banner": "/wp/2020/07/7-1.jpg",
+  "heading": "Dalvan Museum Street Art View",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Tourism",
+    "href": "/category/tourism/"
+   },
+   {
+    "label": "Dalvan Museum Street Art View",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/dalvan-museum-street-art-view-2/": {
+  "title": "List of City Weekend Celebrations - Egovt Theme",
+  "banner": "/wp/2020/07/1-1.jpg",
+  "heading": "List of City Weekend Celebrations",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "City News",
+    "href": "/category/city-news/"
+   },
+   {
+    "label": "List of City Weekend Celebrations",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/department/": {
+  "title": "Department - Egovt Theme",
+  "banner": "/wp/2020/07/bg_department.jpg",
+  "heading": "Department",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Department",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/directory-filter/": {
+  "title": "Directory Filter - Egovt Theme",
+  "banner": null,
+  "heading": "Directory Filter",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Directory Filter",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/donate/": {
+  "title": "Donate - Egovt Theme",
+  "banner": "/wp/2021/01/Img-Over2.jpg",
+  "heading": "Donate",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Donate",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/donations/": {
+  "title": "Donation Forms - Egovt Theme",
+  "banner": null,
+  "heading": "Donation Forms",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Donation Forms",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/donations/?donation_type=type_2": {
+  "title": "Donation Forms - Egovt Theme",
+  "banner": null,
+  "heading": "Donation Forms",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Donation Forms",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/donations/?donation_type=type_3": {
+  "title": "Donation Forms - Egovt Theme",
+  "banner": null,
+  "heading": "Donation Forms",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Donation Forms",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/donations/?donation_type=type_4": {
+  "title": "Donation Forms - Egovt Theme",
+  "banner": null,
+  "heading": "Donation Forms",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Donation Forms",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/donations/category/childrends/": {
+  "title": "Childrends - Egovt Theme",
+  "banner": null,
+  "heading": "Childrends",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Childrends",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/donations/category/education/": {
+  "title": "Education - Egovt Theme",
+  "banner": null,
+  "heading": "Education",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Education",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/donations/category/food/": {
+  "title": "Food - Egovt Theme",
+  "banner": null,
+  "heading": "Food",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Food",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/donations/category/health/": {
+  "title": "Health - Egovt Theme",
+  "banner": null,
+  "heading": "Health",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Health",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/donations/category/water/": {
+  "title": "Water - Egovt Theme",
+  "banner": null,
+  "heading": "Water",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Water",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/donations/donate-food/": {
+  "title": "Donation Form - Egovt Theme",
+  "banner": null,
+  "heading": "Donation Form",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Form",
+    "href": "/donations/"
+   },
+   {
+    "label": "Donation Form",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/donations/donate-for-education/": {
+  "title": "Donate for Education - Egovt Theme",
+  "banner": null,
+  "heading": "Donate for Education",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Form",
+    "href": "/donations/"
+   },
+   {
+    "label": "Donate for Education",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/donations/fundraising-campaign/": {
+  "title": "Fundraising Campaign - Egovt Theme",
+  "banner": null,
+  "heading": "Fundraising Campaign",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Form",
+    "href": "/donations/"
+   },
+   {
+    "label": "Fundraising Campaign",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/donations/givewp-donation-form/": {
+  "title": "Donate for Childrens - Egovt Theme",
+  "banner": null,
+  "heading": "Donate for Childrens",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Form",
+    "href": "/donations/"
+   },
+   {
+    "label": "Donate for Childrens",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/environmental-planning-and-sustainability/": {
+  "title": "Environmental Planning and Sustainability - Egovt Theme",
+  "banner": "/wp/2020/07/5-1.jpg",
+  "heading": "Environmental Planning and Sustainability",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Community",
+    "href": "/category/community/"
+   },
+   {
+    "label": "Environmental Planning and Sustainability",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/europeon-freedom-fighters-statue/": {
+  "title": "Environmental Sustainability - Egovt Theme",
+  "banner": "/wp/2020/07/5-1.jpg",
+  "heading": "Environmental Sustainability",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Culture",
+    "href": "/category/culture/"
+   },
+   {
+    "label": "Environmental Sustainability",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/event_tag/announcement/": {
+  "title": "Announcement - Egovt Theme",
+  "banner": "/wp/2020/07/bg_single_team.jpg",
+  "heading": "Announcement",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Announcement",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/event_tag/building/": {
+  "title": "Building - Egovt Theme",
+  "banner": "/wp/2020/07/bg_single_team.jpg",
+  "heading": "Building",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Building",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/event_tag/city/": {
+  "title": "City - Egovt Theme",
+  "banner": "/wp/2020/07/bg_single_team.jpg",
+  "heading": "City",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "City",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/event_tag/design/": {
+  "title": "Design - Egovt Theme",
+  "banner": "/wp/2020/07/bg_single_team.jpg",
+  "heading": "Design",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Design",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/event_tag/developement/": {
+  "title": "Developement - Egovt Theme",
+  "banner": "/wp/2020/07/bg_single_team.jpg",
+  "heading": "Developement",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Developement",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/event_tag/goverment/": {
+  "title": "Goverment - Egovt Theme",
+  "banner": "/wp/2020/07/bg_single_team.jpg",
+  "heading": "Goverment",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Goverment",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/event_tag/meeting/": {
+  "title": "Meeting - Egovt Theme",
+  "banner": "/wp/2020/07/bg_single_team.jpg",
+  "heading": "Meeting",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Meeting",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/event_tag/road/": {
+  "title": "Road - Egovt Theme",
+  "banner": "/wp/2020/07/bg_single_team.jpg",
+  "heading": "Road",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Road",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/event_tag/smart-city/": {
+  "title": "Smart City - Egovt Theme",
+  "banner": "/wp/2020/07/bg_single_team.jpg",
+  "heading": "Smart City",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Smart City",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/event_type/conference/": {
+  "title": "Conference - Egovt Theme",
+  "banner": "/wp/2020/07/bg_single_team.jpg",
+  "heading": "Conference",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Conference",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/event_type/entertainment/": {
+  "title": "Entertainment - Egovt Theme",
+  "banner": "/wp/2020/07/bg_single_team.jpg",
+  "heading": "Entertainment",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Entertainment",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/event_type/health-sports/": {
+  "title": "Health &amp; Sports - Egovt Theme",
+  "banner": "/wp/2020/07/bg_single_team.jpg",
+  "heading": "Health & Sports",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Health & Sports",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/event_type/meeting/": {
+  "title": "Meeting - Egovt Theme",
+  "banner": "/wp/2020/07/bg_single_team.jpg",
+  "heading": "Meeting",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Meeting",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/event_type/workshop/": {
+  "title": "Workshop - Egovt Theme",
+  "banner": "/wp/2020/07/bg_single_team.jpg",
+  "heading": "Workshop",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Workshop",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/event/": {
+  "title": "Events - Egovt Theme",
+  "banner": "/wp/2020/07/bg_single_team.jpg",
+  "heading": "Events",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Events",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/event/?event_type_temp=type2": {
+  "title": "Events - Egovt Theme",
+  "banner": "/wp/2020/07/bg_single_team.jpg",
+  "heading": "Events",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Events",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/event/?event_type_temp=type3": {
+  "title": "Events - Egovt Theme",
+  "banner": "/wp/2020/07/bg_single_team.jpg",
+  "heading": "Events",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Events",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/event/3/": {
+  "title": "Cultural Festival &#038; Concert at  Domanion Valer - Egovt Theme",
+  "banner": "/wp/2020/08/2.jpg",
+  "heading": "Cultural Festival & Concert at  Domanion Valer",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Event",
+    "href": "/event/"
+   },
+   {
+    "label": "Cultural Festival & Concert at  Domanion Valer",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/event/5/": {
+  "title": "Celebrating World Fiteness Day at White Corner’20 - Egovt Theme",
+  "banner": "/wp/2020/08/4.jpg",
+  "heading": "Celebrating World Fiteness Day at White Corner’20",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Event",
+    "href": "/event/"
+   },
+   {
+    "label": "Celebrating World Fiteness Day at White Corner’20",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/event/aa/": {
+  "title": "Annual Cycling Race 2020 for the  Covid-19 Donation - Egovt Theme",
+  "banner": "/wp/2020/08/3.jpg",
+  "heading": "Annual Cycling Race 2020 for the  Covid-19 Donation",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Event",
+    "href": "/event/"
+   },
+   {
+    "label": "Annual Cycling Race 2020 for the  Covid-19 Donation",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/event/annual-cycling-race-2020-for-the-covid-19-donation/": {
+  "title": "The Strategically Build Your Business - Egovt Theme",
+  "banner": "/wp/2020/08/7-1.jpg",
+  "heading": "The Strategically Build Your Business",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Event",
+    "href": "/event/"
+   },
+   {
+    "label": "The Strategically Build Your Business",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/event/celebrating-world-fiteness-day-at-white-corner20/": {
+  "title": "The Financial Freedom Boot Camp 2020 - Egovt Theme",
+  "banner": "/wp/2020/08/9-1.jpg",
+  "heading": "The Financial Freedom Boot Camp 2020",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Event",
+    "href": "/event/"
+   },
+   {
+    "label": "The Financial Freedom Boot Camp 2020",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/event/city-innovation-and-technology-committee-meeting-2/": {
+  "title": "Faith Forward Future - Social  Awareness Seminar - Egovt Theme",
+  "banner": "/wp/2020/08/6.jpg",
+  "heading": "Faith Forward Future – Social  Awareness Seminar",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Event",
+    "href": "/event/"
+   },
+   {
+    "label": "Faith Forward Future – Social  Awareness Seminar",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/event/city-innovation-and-technology-committee-meeting/": {
+  "title": "Real Entrepreneurship Bootcamp in 2021 - Egovt Theme",
+  "banner": "/wp/2020/08/8-1.jpg",
+  "heading": "Real Entrepreneurship Bootcamp in 2021",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Event",
+    "href": "/event/"
+   },
+   {
+    "label": "Real Entrepreneurship Bootcamp in 2021",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/event/cultural-festival-concert-at-domanion-valer/": {
+  "title": "Cultural Festival &#038; Concert at  Domanion Valer - Egovt Theme",
+  "banner": "/wp/2020/08/11-1.jpg",
+  "heading": "Cultural Festival & Concert at  Domanion Valer",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Event",
+    "href": "/event/"
+   },
+   {
+    "label": "Cultural Festival & Concert at  Domanion Valer",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/event/faith-forward-future-social-awareness-seminar-2/": {
+  "title": "City Innovation and Technology Committee Meeting - Egovt Theme",
+  "banner": "/wp/2020/08/5.jpg",
+  "heading": "City Innovation and Technology Committee Meeting",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Event",
+    "href": "/event/"
+   },
+   {
+    "label": "City Innovation and Technology Committee Meeting",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/event/faith-forward-future-social-awareness-seminar/": {
+  "title": "The International Coffee Festival 2021 - Egovt Theme",
+  "banner": "/wp/2020/08/12-1.jpg",
+  "heading": "The International Coffee Festival 2021",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Event",
+    "href": "/event/"
+   },
+   {
+    "label": "The International Coffee Festival 2021",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/event/organizing-city-photography-contest-2021-2/": {
+  "title": "Organizing City Photography  Contest-2021 - Egovt Theme",
+  "banner": "/wp/2020/08/1.jpg",
+  "heading": "Organizing City Photography  Contest-2021",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Event",
+    "href": "/event/"
+   },
+   {
+    "label": "Organizing City Photography  Contest-2021",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/event/organizing-city-photography-contest-2021/": {
+  "title": "Sports Basement Group Monthly Ride - Egovt Theme",
+  "banner": "/wp/2020/08/10-1.jpg",
+  "heading": "Sports Basement Group Monthly Ride",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Event",
+    "href": "/event/"
+   },
+   {
+    "label": "Sports Basement Group Monthly Ride",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/faq/": {
+  "title": "Municipal FAQ’S - Egovt Theme",
+  "banner": "/wp/2020/08/bg_head_faq.jpg",
+  "heading": "Municipal FAQ’S",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Municipal FAQ’S",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/history/": {
+  "title": "History - Egovt Theme",
+  "banner": "/wp/2020/08/history_bg_header.jpg",
+  "heading": "History",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "History",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/home-2/": {
+  "title": "Home Modern - Egovt Theme"
+ },
+ "/home-3/": {
+  "title": "Home Classic - Egovt Theme"
+ },
+ "/home-4/": {
+  "title": "Home Political party - Egovt Theme"
+ },
+ "/home-5/": {
+  "title": "Home Travel and Tourism Guide - Egovt Theme"
+ },
+ "/home-6/": {
+  "title": "Home Local Town - Egovt Theme"
+ },
+ "/home-7/": {
+  "title": "Home 7 - Egovt Theme"
+ },
+ "/home-8/": {
+  "title": "Home 8 - Egovt Theme"
+ },
+ "/home-9/": {
+  "title": "Home 9 - Egovt Theme"
+ },
+ "/list-of-city-weekend-celebrations-2/": {
+  "title": "Urban Renewal Loans  Available - Egovt Theme",
+  "banner": "/wp/2020/07/6-1.jpg",
+  "heading": "Urban Renewal Loans  Available",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Goverment",
+    "href": "/category/goverment/"
+   },
+   {
+    "label": "Urban Renewal Loans  Available",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/list-of-city-weekend-celebrations/": {
+  "title": "List of City Weekend Celebrations - Egovt Theme",
+  "banner": "/wp/2020/07/16-1.jpg",
+  "heading": "List of City Weekend Celebrations",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Goverment",
+    "href": "/category/goverment/"
+   },
+   {
+    "label": "List of City Weekend Celebrations",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/metro-road-design-plan-2025-2/": {
+  "title": "Metro Road Design Plan  2025 - Egovt Theme",
+  "banner": "/wp/2020/07/3-1.jpg",
+  "heading": "Metro Road Design Plan  2025",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Devlopement",
+    "href": "/category/devlopement/"
+   },
+   {
+    "label": "Metro Road Design Plan  2025",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/metro-road-design-plan-2025/": {
+  "title": "Metro Road Design Plan 2025 - Egovt Theme",
+  "banner": "/wp/2020/07/3-1.jpg",
+  "heading": "Metro Road Design Plan 2025",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Devlopement",
+    "href": "/category/devlopement/"
+   },
+   {
+    "label": "Metro Road Design Plan 2025",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/municipal-faqs/": {
+  "title": "Environmental Safty - Egovt Theme",
+  "banner": "/wp/2020/08/bg_head_faq.jpg",
+  "heading": "Environmental Safty",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Environmental Safty",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/my-account/": {
+  "title": "My account - Egovt Theme",
+  "banner": "/wp/2020/07/bg_single_team.jpg",
+  "heading": "My account",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "My account",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/my-account/lost-password/": {
+  "title": "Lost password - Egovt Theme",
+  "banner": "/wp/2020/07/bg_single_team.jpg",
+  "heading": "My account",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "My account",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/new-australian-economic-culture-2/": {
+  "title": "New ustralian Economic Culture - Egovt Theme",
+  "banner": "/wp/2020/07/2-1.jpg",
+  "heading": "New ustralian Economic Culture",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Devlopement",
+    "href": "/category/devlopement/"
+   },
+   {
+    "label": "New ustralian Economic Culture",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/new-australian-economic-culture/": {
+  "title": "New Australian Economic Culture - Egovt Theme",
+  "banner": "/wp/2020/07/14-1.jpg",
+  "heading": "New Australian Economic Culture",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Culture",
+    "href": "/category/culture/"
+   },
+   {
+    "label": "New Australian Economic Culture",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/new-goverment-rules-enforced-in-tourisum/": {
+  "title": "Urban Renewal Loans Available - Egovt Theme",
+  "banner": "/wp/2020/07/10-1.jpg",
+  "heading": "Urban Renewal Loans Available",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "City News",
+    "href": "/category/city-news/"
+   },
+   {
+    "label": "Urban Renewal Loans Available",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/new-industrial-boom-2025-announcement/": {
+  "title": "New Industrial Boom  2025: Announcement - Egovt Theme",
+  "banner": "/wp/2020/07/13-1.jpg",
+  "heading": "New Industrial Boom  2025: Announcement",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Devlopement",
+    "href": "/category/devlopement/"
+   },
+   {
+    "label": "New Industrial Boom  2025: Announcement",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/ova_dep/": {
+  "title": "Department - Egovt Theme",
+  "banner": "/wp/2020/07/bg_department.jpg",
+  "heading": "Department",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Department",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/ova_dep/agriculture-and-food/": {
+  "title": "Agriculture and Food - Egovt Theme",
+  "banner": "/wp/2020/07/img_dep_9.jpg",
+  "heading": "Agriculture and Food",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Department",
+    "href": "/ova_dep/"
+   },
+   {
+    "label": "Agriculture and Food",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/ova_dep/art-and-culture-2/": {
+  "title": "Art and Culture - Egovt Theme",
+  "banner": "/wp/2020/07/img_dep_4.jpg",
+  "heading": "Art and Culture",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Department",
+    "href": "/ova_dep/"
+   },
+   {
+    "label": "Art and Culture",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/ova_dep/business-administration/": {
+  "title": "Business &#038; Industry - Egovt Theme",
+  "banner": "/wp/2020/07/img_dep_1.jpg",
+  "heading": "Business & Industry",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Department",
+    "href": "/ova_dep/"
+   },
+   {
+    "label": "Business & Industry",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/ova_dep/constution-and-law/": {
+  "title": "Constution and Law - Egovt Theme",
+  "banner": "/wp/2020/07/img_dep_3.jpg",
+  "heading": "Constution and Law",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Department",
+    "href": "/ova_dep/"
+   },
+   {
+    "label": "Constution and Law",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/ova_dep/finance-and-economy/": {
+  "title": "Finance and Economy - Egovt Theme",
+  "banner": "/wp/2020/07/img_dep_2.jpg",
+  "heading": "Finance and Economy",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Department",
+    "href": "/ova_dep/"
+   },
+   {
+    "label": "Finance and Economy",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/ova_dep/housing-and-land/": {
+  "title": "Housing and Land - Egovt Theme",
+  "banner": "/wp/2020/07/img_dep_6.jpg",
+  "heading": "Housing and Land",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Department",
+    "href": "/ova_dep/"
+   },
+   {
+    "label": "Housing and Land",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/ova_dep/page/2/": {
+  "title": "Department - Page 2 - Egovt Theme",
+  "banner": "/wp/2020/07/bg_department.jpg",
+  "heading": "Department",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Department",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/ova_dep/park-and-recreation/": {
+  "title": "Park and Recreation - Egovt Theme",
+  "banner": "/wp/2020/07/img_dep_7.jpg",
+  "heading": "Park and Recreation",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Department",
+    "href": "/ova_dep/"
+   },
+   {
+    "label": "Park and Recreation",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/ova_dep/policing-and-crime/": {
+  "title": "Policing and Crime - Egovt Theme",
+  "banner": "/wp/2020/07/img_dep_8.jpg",
+  "heading": "Policing and Crime",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Department",
+    "href": "/ova_dep/"
+   },
+   {
+    "label": "Policing and Crime",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/ova_dep/roads-and-transport/": {
+  "title": "Roads and Transport - Egovt Theme",
+  "banner": "/wp/2020/07/img_dep_5.jpg",
+  "heading": "Roads and Transport",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Department",
+    "href": "/ova_dep/"
+   },
+   {
+    "label": "Roads and Transport",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/ova_dir/": {
+  "title": "Directories - Egovt Theme",
+  "banner": "/wp/2023/09/Bowling-Point.jpeg",
+  "heading": "Directories",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Directories",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/ova_dir/bowling-point/": {
+  "title": "Bowling Point - Egovt Theme",
+  "banner": "/wp/2023/09/Bowling-Point.jpeg",
+  "heading": "Bowling Point",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Directory",
+    "href": "/ova_dir/"
+   },
+   {
+    "label": "Bowling Point",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/ova_dir/community-centre/": {
+  "title": "Community Centre - Egovt Theme",
+  "banner": "/wp/2023/09/Community-Centre-1024x640-1.jpeg",
+  "heading": "Community Centre",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Directory",
+    "href": "/ova_dir/"
+   },
+   {
+    "label": "Community Centre",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/ova_dir/elementary-school/": {
+  "title": "Elementary School - Egovt Theme",
+  "banner": "/wp/2023/09/Elementary-School-1024x640-1.jpeg",
+  "heading": "Elementary School",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Directory",
+    "href": "/ova_dir/"
+   },
+   {
+    "label": "Elementary School",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/ova_dir/high-school-2/": {
+  "title": "Downtown Cinema - Egovt Theme",
+  "banner": "/wp/2023/09/Cinema.jpeg",
+  "heading": "Downtown Cinema",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Directory",
+    "href": "/ova_dir/"
+   },
+   {
+    "label": "Downtown Cinema",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/ova_dir/high-school/": {
+  "title": "High School - Egovt Theme",
+  "banner": "/wp/2023/09/White-Bird-Inn-1024x640-1.jpeg",
+  "heading": "High School",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Directory",
+    "href": "/ova_dir/"
+   },
+   {
+    "label": "High School",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/ova_dir/post-office/": {
+  "title": "Post Office - Egovt Theme",
+  "banner": "/wp/2023/09/Post-office-1024x640-1.jpeg",
+  "heading": "Post Office",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Directory",
+    "href": "/ova_dir/"
+   },
+   {
+    "label": "Post Office",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/ova_dir/recreation-centre/": {
+  "title": "Recreation Centre - Egovt Theme",
+  "banner": "/wp/2023/09/Recreation-Centre-1024x640-1.jpeg",
+  "heading": "Recreation Centre",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Directory",
+    "href": "/ova_dir/"
+   },
+   {
+    "label": "Recreation Centre",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/ova_dir/townpress-theatre/": {
+  "title": "TownPress Theatre - Egovt Theme",
+  "banner": "/wp/2023/09/Theatre-1024x640-1.jpeg",
+  "heading": "TownPress Theatre",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Directory",
+    "href": "/ova_dir/"
+   },
+   {
+    "label": "TownPress Theatre",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/ova_doc/": {
+  "title": "Document - Egovt Theme",
+  "banner": "/wp/2020/07/Financial_Briefing_Update_for_the_Year.jpg",
+  "heading": "Document",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Document",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/ova_doc/budget-allocation-q3/": {
+  "title": "Budget Allocation-Q3 - Egovt Theme",
+  "banner": "/wp/2020/07/bg_header_document.jpg",
+  "heading": "Budget Allocation-Q3",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Document",
+    "href": "/ova_doc/"
+   },
+   {
+    "label": "Budget Allocation-Q3",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/ova_doc/business-license-application/": {
+  "title": "Business License Application - Egovt Theme",
+  "banner": "/wp/2020/07/bg_header_document.jpg",
+  "heading": "Business License Application",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Document",
+    "href": "/ova_doc/"
+   },
+   {
+    "label": "Business License Application",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/ova_doc/city-board-applications/": {
+  "title": "City Board Applications - Egovt Theme",
+  "banner": "/wp/2020/07/bg_header_document.jpg",
+  "heading": "City Board Applications",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Document",
+    "href": "/ova_doc/"
+   },
+   {
+    "label": "City Board Applications",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/ova_doc/covid-19-daily-updates/": {
+  "title": "Covid-19 Daily Updates - Egovt Theme",
+  "banner": "/wp/2020/07/bg_header_document.jpg",
+  "heading": "Covid-19 Daily Updates",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Document",
+    "href": "/ova_doc/"
+   },
+   {
+    "label": "Covid-19 Daily Updates",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/ova_doc/economy-growth-report/": {
+  "title": "Economy Growth Report - Egovt Theme",
+  "banner": "/wp/2020/07/bg_header_document.jpg",
+  "heading": "Economy Growth Report",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Document",
+    "href": "/ova_doc/"
+   },
+   {
+    "label": "Economy Growth Report",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/ova_doc/energy-recycle-plan/": {
+  "title": "Energy Recycle Plan - Egovt Theme",
+  "banner": "/wp/2020/07/bg_header_document.jpg",
+  "heading": "Energy Recycle Plan",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Document",
+    "href": "/ova_doc/"
+   },
+   {
+    "label": "Energy Recycle Plan",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/ova_doc/health-and-security-plan/": {
+  "title": "Health and Security Plan - Egovt Theme",
+  "banner": "/wp/2020/07/bg_header_document.jpg",
+  "heading": "Health and Security Plan",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Document",
+    "href": "/ova_doc/"
+   },
+   {
+    "label": "Health and Security Plan",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/ova_doc/housing-developement-plan-2/": {
+  "title": "Housing Developement Plan - Egovt Theme",
+  "banner": "/wp/2020/07/bg_header_document.jpg",
+  "heading": "Housing Developement Plan",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Document",
+    "href": "/ova_doc/"
+   },
+   {
+    "label": "Housing Developement Plan",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/ova_doc/housing-developement-plan/": {
+  "title": "Housing Developement Plan - Egovt Theme",
+  "banner": "/wp/2020/07/bg_header_document.jpg",
+  "heading": "Housing Developement Plan",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Document",
+    "href": "/ova_doc/"
+   },
+   {
+    "label": "Housing Developement Plan",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/ova_doc/road-transport-forms/": {
+  "title": "Road Transport Forms - Egovt Theme",
+  "banner": "/wp/2020/07/bg_header_document.jpg",
+  "heading": "Road Transport Forms",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Document",
+    "href": "/ova_doc/"
+   },
+   {
+    "label": "Road Transport Forms",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/ova_doc/rural-devlopement-reports/": {
+  "title": "Rural Devlopement Reports - Egovt Theme",
+  "banner": "/wp/2020/07/bg_header_document.jpg",
+  "heading": "Rural Devlopement Reports",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Document",
+    "href": "/ova_doc/"
+   },
+   {
+    "label": "Rural Devlopement Reports",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/ova_doc/traffic-strategic-plan/": {
+  "title": "Traffic Strategic Plan - Egovt Theme",
+  "banner": "/wp/2020/07/bg_header_document.jpg",
+  "heading": "Traffic Strategic Plan",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Document",
+    "href": "/ova_doc/"
+   },
+   {
+    "label": "Traffic Strategic Plan",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/ova_doc/veichle-parking-license/": {
+  "title": "Veichle Parking License - Egovt Theme",
+  "banner": "/wp/2020/07/bg_header_document.jpg",
+  "heading": "Veichle Parking License",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Document",
+    "href": "/ova_doc/"
+   },
+   {
+    "label": "Veichle Parking License",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/ova_doc/yearly-financial-report-2022/": {
+  "title": "Yearly Financial Report-2022 - Egovt Theme",
+  "banner": "/wp/2020/07/bg_header_document.jpg",
+  "heading": "Yearly Financial Report-2022",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Document",
+    "href": "/ova_doc/"
+   },
+   {
+    "label": "Yearly Financial Report-2022",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/ova_por/": {
+  "title": "Portfolio - Egovt Theme",
+  "banner": "/wp/2020/07/bg_department.jpg",
+  "heading": "Portfolio",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Portfolio",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/ova_por/?archive_type_portfolio=classic": {
+  "title": "Portfolio - Egovt Theme",
+  "banner": "/wp/2020/07/bg_department.jpg",
+  "heading": "Portfolio",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Portfolio",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/ova_por/?archive_type_portfolio=grid": {
+  "title": "Portfolio - Egovt Theme",
+  "banner": "/wp/2020/07/bg_department.jpg",
+  "heading": "Portfolio",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Portfolio",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/ova_por/?archive_type_portfolio=modern": {
+  "title": "Portfolio - Egovt Theme",
+  "banner": "/wp/2020/07/bg_department.jpg",
+  "heading": "Portfolio",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Portfolio",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/ova_por/business-agencies/": {
+  "title": "Classic Buildings - Egovt Theme",
+  "banner": "/wp/2020/08/13.jpg",
+  "heading": "Classic Buildings",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Portfolio",
+    "href": "/ova_por/"
+   },
+   {
+    "label": "Classic Buildings",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/ova_por/business-portfolio/": {
+  "title": "Mayor of Arsonia - Egovt Theme",
+  "banner": "/wp/2020/08/1-1.jpg",
+  "heading": "Mayor of Arsonia",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Portfolio",
+    "href": "/ova_por/"
+   },
+   {
+    "label": "Mayor of Arsonia",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/ova_por/cinema-teatre/": {
+  "title": "Rome Art Museum - Egovt Theme",
+  "banner": "/wp/2020/08/10.jpg",
+  "heading": "Rome Art Museum",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Portfolio",
+    "href": "/ova_por/"
+   },
+   {
+    "label": "Rome Art Museum",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/ova_por/classic-buildings/": {
+  "title": "Business Agencies - Egovt Theme",
+  "banner": "/wp/2020/08/5-1.jpg",
+  "heading": "Business Agencies",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Portfolio",
+    "href": "/ova_por/"
+   },
+   {
+    "label": "Business Agencies",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/ova_por/historical-buildings/": {
+  "title": "Spring Conference - Egovt Theme",
+  "banner": "/wp/2020/08/14.jpg",
+  "heading": "Spring Conference",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Portfolio",
+    "href": "/ova_por/"
+   },
+   {
+    "label": "Spring Conference",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/ova_por/mayor-of-arsonia/": {
+  "title": "business portfolio - Egovt Theme",
+  "banner": "/wp/2020/08/15.jpg",
+  "heading": "business portfolio",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Portfolio",
+    "href": "/ova_por/"
+   },
+   {
+    "label": "business portfolio",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/ova_por/melton-art-museum/": {
+  "title": "Town of Rome - Egovt Theme",
+  "banner": "/wp/2020/08/11.jpg",
+  "heading": "Town of Rome",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Portfolio",
+    "href": "/ova_por/"
+   },
+   {
+    "label": "Town of Rome",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/ova_por/metro-train-station/": {
+  "title": "Metro Train Station - Egovt Theme",
+  "banner": "/wp/2020/08/8.jpg",
+  "heading": "Metro Train Station",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Portfolio",
+    "href": "/ova_por/"
+   },
+   {
+    "label": "Metro Train Station",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/ova_por/modern-buildings/": {
+  "title": "Summer Conference - Egovt Theme",
+  "banner": "/wp/2020/08/7.jpg",
+  "heading": "Summer Conference",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Portfolio",
+    "href": "/ova_por/"
+   },
+   {
+    "label": "Summer Conference",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/ova_por/museum-of-new-york/": {
+  "title": "Town of Maximonia - Egovt Theme",
+  "banner": "/wp/2020/08/2-1.jpg",
+  "heading": "Town of Maximonia",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Portfolio",
+    "href": "/ova_por/"
+   },
+   {
+    "label": "Town of Maximonia",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/ova_por/museum-of-new-york/?single_type_portfolio=type1": {
+  "title": "Town of Maximonia - Egovt Theme",
+  "banner": "/wp/2020/08/2-1.jpg",
+  "heading": "Town of Maximonia",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Portfolio",
+    "href": "/ova_por/"
+   },
+   {
+    "label": "Town of Maximonia",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/ova_por/museum-of-new-york/?single_type_portfolio=type2": {
+  "title": "Town of Maximonia - Egovt Theme",
+  "banner": "/wp/2020/08/2-1.jpg",
+  "heading": "Town of Maximonia",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Portfolio",
+    "href": "/ova_por/"
+   },
+   {
+    "label": "Town of Maximonia",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/ova_por/rome-art-museum/": {
+  "title": "Cinema Teatre - Egovt Theme",
+  "banner": "/wp/2020/08/4-1.jpg",
+  "heading": "Cinema Teatre",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Portfolio",
+    "href": "/ova_por/"
+   },
+   {
+    "label": "Cinema Teatre",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/ova_por/springconference/": {
+  "title": "Historical Buildings - Egovt Theme",
+  "banner": "/wp/2020/08/6-1.jpg",
+  "heading": "Historical Buildings",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Portfolio",
+    "href": "/ova_por/"
+   },
+   {
+    "label": "Historical Buildings",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/ova_por/summer-conference/": {
+  "title": "Modern Buildings - Egovt Theme",
+  "banner": "/wp/2020/08/9.jpg",
+  "heading": "Modern Buildings",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Portfolio",
+    "href": "/ova_por/"
+   },
+   {
+    "label": "Modern Buildings",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/ova_por/town-of-maximonia/": {
+  "title": "Museum of New york - Egovt Theme",
+  "banner": "/wp/2020/08/12.jpg",
+  "heading": "Museum of New york",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Portfolio",
+    "href": "/ova_por/"
+   },
+   {
+    "label": "Museum of New york",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/ova_por/town-of-rome/": {
+  "title": "Melton Art Museum - Egovt Theme",
+  "banner": "/wp/2020/08/3-1.jpg",
+  "heading": "Melton Art Museum",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Portfolio",
+    "href": "/ova_por/"
+   },
+   {
+    "label": "Melton Art Museum",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/ova_sev/": {
+  "title": "Service - Egovt Theme",
+  "banner": "/wp/2020/07/Financial_Briefing_Update_for_the_Year.jpg",
+  "heading": "Service",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Service",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/ova_sev/business-and-industry-2/": {
+  "title": "Travel &#038; Immigration - Egovt Theme",
+  "banner": "/wp/2020/07/bg_service_single.jpg",
+  "heading": "Travel & Immigration",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Service",
+    "href": "/ova_sev/"
+   },
+   {
+    "label": "Travel & Immigration",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/ova_sev/business-and-industry-3/": {
+  "title": "Business and Industry - Egovt Theme",
+  "banner": "/wp/2020/07/bg_service_single.jpg",
+  "heading": "Business and Industry",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Service",
+    "href": "/ova_sev/"
+   },
+   {
+    "label": "Business and Industry",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/ova_sev/culture-recreation/": {
+  "title": "Culture &#038; Recreation - Egovt Theme",
+  "banner": "/wp/2020/07/bg_service_single.jpg",
+  "heading": "Culture & Recreation",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Service",
+    "href": "/ova_sev/"
+   },
+   {
+    "label": "Culture & Recreation",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/ova_sev/education-and-skills/": {
+  "title": "Education and skills - Egovt Theme",
+  "banner": "/wp/2020/07/bg_service_single.jpg",
+  "heading": "Education and skills",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Service",
+    "href": "/ova_sev/"
+   },
+   {
+    "label": "Education and skills",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/ova_sev/health-and-securities/": {
+  "title": "Health and Securities - Egovt Theme",
+  "banner": "/wp/2020/07/bg_service_single.jpg",
+  "heading": "Health and Securities",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Service",
+    "href": "/ova_sev/"
+   },
+   {
+    "label": "Health and Securities",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/ova_sev/jobs-and-unemployment/": {
+  "title": "Jobs and Unemployment - Egovt Theme",
+  "banner": "/wp/2020/07/bg_service_single.jpg",
+  "heading": "Jobs and Unemployment",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Service",
+    "href": "/ova_sev/"
+   },
+   {
+    "label": "Jobs and Unemployment",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/ova_sev/justice-safty-and-the-law/": {
+  "title": "Justice, Safty and the law - Egovt Theme",
+  "banner": "/wp/2020/07/bg_service_single.jpg",
+  "heading": "Justice, Safty and the law",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Service",
+    "href": "/ova_sev/"
+   },
+   {
+    "label": "Justice, Safty and the law",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/ova_sev/roads-transportation/": {
+  "title": "Roads &#038; Transportation - Egovt Theme",
+  "banner": "/wp/2020/07/bg_service_single.jpg",
+  "heading": "Roads & Transportation",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Service",
+    "href": "/ova_sev/"
+   },
+   {
+    "label": "Roads & Transportation",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/ova_sev/your-goverment/": {
+  "title": "Your Goverment - Egovt Theme",
+  "banner": "/wp/2020/07/bg_service_single.jpg",
+  "heading": "Your Goverment",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Service",
+    "href": "/ova_sev/"
+   },
+   {
+    "label": "Your Goverment",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/page-service/": {
+  "title": "Page Service - Egovt Theme",
+  "banner": "/wp/2020/08/bg_service_page.jpg",
+  "heading": "Page Service",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Page Service",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/page-team/": {
+  "title": "Page Team - Egovt Theme",
+  "banner": "/wp/2020/07/bg_single_team.jpg",
+  "heading": "Page Team",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Page Team",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/product-category/accessories/": {
+  "title": "Accessories - Egovt Theme",
+  "banner": "/wp/2020/08/cd_5_angle.jpg",
+  "heading": "Accessories",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Accessories",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/product-category/clothing/": {
+  "title": "Clothing - Egovt Theme",
+  "banner": "/wp/2020/08/T_4_front.jpg",
+  "heading": "Clothing",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Clothing",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/product-category/decor/": {
+  "title": "Decor - Egovt Theme",
+  "banner": "/wp/2020/08/cd_5_angle.jpg",
+  "heading": "Decor",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Decor",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/product-category/hoodies/": {
+  "title": "Hoodies - Egovt Theme",
+  "banner": "/wp/2020/08/hoodie_3_front.jpg",
+  "heading": "Hoodies",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Hoodies",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/product-category/tshirts/": {
+  "title": "Tshirts - Egovt Theme",
+  "banner": "/wp/2020/08/T_4_front.jpg",
+  "heading": "Tshirts",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Tshirts",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/product-category/uncategorized/": {
+  "title": "Uncategorized - Egovt Theme",
+  "banner": null,
+  "heading": "Uncategorized",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Uncategorized",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/product-tag/city/": {
+  "title": "City - Egovt Theme",
+  "banner": "/wp/2020/08/poster_5_up.jpg",
+  "heading": "City",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Products tagged “City”",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/product-tag/design/": {
+  "title": "Design - Egovt Theme",
+  "banner": "/wp/2020/08/cd_5_angle.jpg",
+  "heading": "Design",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Products tagged “Design”",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/product-tag/development/": {
+  "title": "Development - Egovt Theme",
+  "banner": "/wp/2020/08/T_4_front.jpg",
+  "heading": "Development",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Products tagged “Development”",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/product-tag/goverment/": {
+  "title": "Goverment - Egovt Theme",
+  "banner": "/wp/2020/08/cd_5_angle.jpg",
+  "heading": "Goverment",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Products tagged “Goverment”",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/product-tag/road/": {
+  "title": "Road - Egovt Theme",
+  "banner": "/wp/2020/08/poster_5_up.jpg",
+  "heading": "Road",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Products tagged “Road”",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/product-tag/smart-city/": {
+  "title": "Smart City - Egovt Theme",
+  "banner": "/wp/2020/08/T_4_front.jpg",
+  "heading": "Smart City",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Products tagged “Smart City”",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/product/angle-music-2/": {
+  "title": "Angle Music #2 - Egovt Theme",
+  "banner": "/wp/2020/08/cd_5_angle.jpg",
+  "heading": "Angle Music #2",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Accessories",
+    "href": "/product-category/accessories/"
+   },
+   {
+    "label": "Angle Music #2",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/product/black-logo-t-shirt/": {
+  "title": "Black Logo T-Shirt - Egovt Theme",
+  "banner": "/wp/2020/08/T_4_front.jpg",
+  "heading": "Black Logo T-Shirt",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Clothing",
+    "href": "/product-category/clothing/"
+   },
+   {
+    "label": "Black Logo T-Shirt",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/product/blue-light-woo-poster/": {
+  "title": "Blue Light Woo Poster - Egovt Theme",
+  "banner": "/wp/2020/08/poster_5_up.jpg",
+  "heading": "Blue Light Woo Poster",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Accessories",
+    "href": "/product-category/accessories/"
+   },
+   {
+    "label": "Blue Light Woo Poster",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/product/blue-woo-poster/": {
+  "title": "Blue Woo Poster - Egovt Theme",
+  "banner": "/wp/2020/08/poster_3_up.jpg",
+  "heading": "Blue Woo Poster",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Decor",
+    "href": "/product-category/decor/"
+   },
+   {
+    "label": "Blue Woo Poster",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/product/fit-blazer-hoodies/": {
+  "title": "Fit Blazer Hoodies - Egovt Theme",
+  "banner": "/wp/2020/08/hoodie_3_front.jpg",
+  "heading": "Fit Blazer Hoodies",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Hoodies",
+    "href": "/product-category/hoodies/"
+   },
+   {
+    "label": "Fit Blazer Hoodies",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/product/grey-woo-poster/": {
+  "title": "Grey Woo Poster - Egovt Theme",
+  "banner": "/wp/2020/08/poster_1_up.jpg",
+  "heading": "Grey Woo Poster",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Decor",
+    "href": "/product-category/decor/"
+   },
+   {
+    "label": "Grey Woo Poster",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/product/light-green-t-shirt/": {
+  "title": "Light Green  T-Shirt - Egovt Theme",
+  "banner": "/wp/2020/08/T_6_front.jpg",
+  "heading": "Light Green  T-Shirt",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Tshirts",
+    "href": "/product-category/tshirts/"
+   },
+   {
+    "label": "Light Green  T-Shirt",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/product/modern-black-hoodies/": {
+  "title": "Modern-Black Hoodies - Egovt Theme",
+  "banner": "/wp/2020/08/hoodie_5_front.jpg",
+  "heading": "Modern-Black Hoodies",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Hoodies",
+    "href": "/product-category/hoodies/"
+   },
+   {
+    "label": "Modern-Black Hoodies",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/product/modern-grey-hoodies/": {
+  "title": "Modern Grey Hoodies - Egovt Theme",
+  "banner": "/wp/2020/08/hoodie_4_front.jpg",
+  "heading": "Modern Grey Hoodies",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Hoodies",
+    "href": "/product-category/hoodies/"
+   },
+   {
+    "label": "Modern Grey Hoodies",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/product/music-album-1/": {
+  "title": "Music Album-#1 - Egovt Theme",
+  "banner": "/wp/2020/08/cd_6_angle.jpg",
+  "heading": "Music Album-#1",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Decor",
+    "href": "/product-category/decor/"
+   },
+   {
+    "label": "Music Album-#1",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/product/music-collection-1/": {
+  "title": "Music Collection-#1 - Egovt Theme",
+  "banner": "/wp/2020/08/cd_4_angle.jpg",
+  "heading": "Music Collection-#1",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Accessories",
+    "href": "/product-category/accessories/"
+   },
+   {
+    "label": "Music Collection-#1",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/product/ninja-woo-poster/": {
+  "title": "Ninja Woo Poster - Egovt Theme",
+  "banner": "/wp/2020/08/poster_2_up.jpg",
+  "heading": "Ninja Woo Poster",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Decor",
+    "href": "/product-category/decor/"
+   },
+   {
+    "label": "Ninja Woo Poster",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/product/red-woo-poster/": {
+  "title": "Red Woo Poster - Egovt Theme",
+  "banner": "/wp/2020/08/poster_4_up.jpg",
+  "heading": "Red Woo Poster",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Hoodies",
+    "href": "/product-category/hoodies/"
+   },
+   {
+    "label": "Red Woo Poster",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/product/shawl-black-t-shirt/": {
+  "title": "Shawl-Black T-Shirt - Egovt Theme",
+  "banner": "/wp/2020/08/T_5_front.jpg",
+  "heading": "Shawl-Black T-Shirt",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Accessories",
+    "href": "/product-category/accessories/"
+   },
+   {
+    "label": "Shawl-Black T-Shirt",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/product/shawl-white-t-shirt/": {
+  "title": "Shawl-White T-Shirt - Egovt Theme",
+  "banner": "/wp/2020/08/T_2_front.jpg",
+  "heading": "Shawl-White T-Shirt",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Clothing",
+    "href": "/product-category/clothing/"
+   },
+   {
+    "label": "Shawl-White T-Shirt",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/product/v-neck-t-shirt/": {
+  "title": "V-Neck T-Shirt - Egovt Theme",
+  "banner": "/wp/2020/08/T_1_front.jpg",
+  "heading": "V-Neck T-Shirt",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Accessories",
+    "href": "/product-category/accessories/"
+   },
+   {
+    "label": "V-Neck T-Shirt",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/product/woo-grey-t-shirt/": {
+  "title": "Woo Grey T-Shirt - Egovt Theme",
+  "banner": "/wp/2020/08/T_7_front.jpg",
+  "heading": "Woo Grey T-Shirt",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Tshirts",
+    "href": "/product-category/tshirts/"
+   },
+   {
+    "label": "Woo Grey T-Shirt",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/product/woo-logo-hoody-black/": {
+  "title": "Woo Logo Hoody Black - Egovt Theme",
+  "banner": "/wp/2020/08/hoodie_6_front.jpg",
+  "heading": "Woo Logo Hoody Black",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Hoodies",
+    "href": "/product-category/hoodies/"
+   },
+   {
+    "label": "Woo Logo Hoody Black",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/product/woo-logo-hoody-red/": {
+  "title": "Woo Logo Hoody Red - Egovt Theme",
+  "banner": "/wp/2020/08/hoodie_2_front.jpg",
+  "heading": "Woo Logo Hoody Red",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Hoodies",
+    "href": "/product-category/hoodies/"
+   },
+   {
+    "label": "Woo Logo Hoody Red",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/product/woo-logo-hoody/": {
+  "title": "Woo Logo Hoody - Egovt Theme",
+  "banner": "/wp/2020/08/hoodie_7_front.jpg",
+  "heading": "Woo Logo Hoody",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Hoodies",
+    "href": "/product-category/hoodies/"
+   },
+   {
+    "label": "Woo Logo Hoody",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/shop/": {
+  "title": "Shop - Egovt Theme",
+  "banner": "/wp/2020/08/shop_bg_header.jpg",
+  "heading": "Shop",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Shop",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/shop/page/1/": {
+  "title": "Shop - Egovt Theme",
+  "banner": "/wp/2020/08/shop_bg_header.jpg",
+  "heading": "Shop",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Shop",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/shop/page/2/": {
+  "title": "Shop - Page 2 - Egovt Theme",
+  "banner": "/wp/2020/08/shop_bg_header.jpg",
+  "heading": "Shop",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Shop",
+    "href": "/shop/"
+   },
+   {
+    "label": "Page 2",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/summer-nights-at-the-library-2/": {
+  "title": "Summer Nights at the  Library - Egovt Theme",
+  "banner": "/wp/2020/07/4-1.jpg",
+  "heading": "Summer Nights at the  Library",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "City News",
+    "href": "/category/city-news/"
+   },
+   {
+    "label": "Summer Nights at the  Library",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/summer-nights-at-the-library/": {
+  "title": "Summer Nights at the Library - Egovt Theme",
+  "banner": "/wp/2020/07/4-1.jpg",
+  "heading": "Summer Nights at the Library",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Goverment",
+    "href": "/category/goverment/"
+   },
+   {
+    "label": "Summer Nights at the Library",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/tag_dir/cinema/": {
+  "title": "Cinema - Egovt Theme",
+  "banner": "/wp/2023/09/Bowling-Point.jpeg",
+  "heading": "Cinema",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Cinema",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/tag_dir/directory/": {
+  "title": "Directory - Egovt Theme",
+  "banner": "/wp/2023/09/Bowling-Point.jpeg",
+  "heading": "Directory",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Directory",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/tag/city/": {
+  "title": "City - Egovt Theme",
+  "banner": "/wp/2020/07/1-1.jpg",
+  "heading": "Tags",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Archive by tag City\"",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/tag/design/": {
+  "title": "Design - Egovt Theme",
+  "banner": "/wp/2020/07/2-1.jpg",
+  "heading": "Tags",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Archive by tag Design\"",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/tag/developement/": {
+  "title": "Developement - Egovt Theme",
+  "banner": "/wp/2020/07/2-1.jpg",
+  "heading": "Tags",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Archive by tag Developement\"",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/tag/goverment/": {
+  "title": "Goverment - Egovt Theme",
+  "banner": "/wp/2020/07/8-1.jpg",
+  "heading": "Tags",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Archive by tag Goverment\"",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/tag/meeting/": {
+  "title": "Meeting - Egovt Theme",
+  "banner": "/wp/2020/07/4-1.jpg",
+  "heading": "Tags",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Archive by tag Meeting\"",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/tag/road/": {
+  "title": "Road - Egovt Theme",
+  "banner": "/wp/2020/07/1-1.jpg",
+  "heading": "Tags",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Archive by tag Road\"",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/tag/smart-city/": {
+  "title": "Smart City - Egovt Theme",
+  "banner": "/wp/2020/07/1-1.jpg",
+  "heading": "Tags",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Archive by tag Smart City\"",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/team/": {
+  "title": "Teams - Egovt Theme",
+  "banner": "/wp/2020/07/bg_blog.jpg",
+  "heading": "Teams",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Teams",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/team/carleno-emo/": {
+  "title": "Kanaov Marla - Egovt Theme",
+  "banner": "/wp/2020/07/bg_single_team.jpg",
+  "heading": "Kanaov Marla",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Team",
+    "href": "/team/"
+   },
+   {
+    "label": "Kanaov Marla",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/team/cevin-peter/": {
+  "title": "Wenalbooze - Egovt Theme",
+  "banner": "/wp/2020/07/bg_single_team.jpg",
+  "heading": "Wenalbooze",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Team",
+    "href": "/team/"
+   },
+   {
+    "label": "Wenalbooze",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/team/charlee-mangar/": {
+  "title": "Donald Trump - Egovt Theme",
+  "banner": "/wp/2020/07/bg_single_team.jpg",
+  "heading": "Donald Trump",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Team",
+    "href": "/team/"
+   },
+   {
+    "label": "Donald Trump",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/team/dinaval-jall/": {
+  "title": "Robert Peterson - Egovt Theme",
+  "banner": "/wp/2020/07/bg_single_team.jpg",
+  "heading": "Robert Peterson",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Team",
+    "href": "/team/"
+   },
+   {
+    "label": "Robert Peterson",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/team/donald-trump/": {
+  "title": "Charlee Mangar - Egovt Theme",
+  "banner": "/wp/2020/07/bg_single_team.jpg",
+  "heading": "Charlee Mangar",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Team",
+    "href": "/team/"
+   },
+   {
+    "label": "Charlee Mangar",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/team/kanaov-marla/": {
+  "title": "Carleno Emo - Egovt Theme",
+  "banner": "/wp/2020/07/bg_single_team.jpg",
+  "heading": "Carleno Emo",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Team",
+    "href": "/team/"
+   },
+   {
+    "label": "Carleno Emo",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/team/robert-peterson/": {
+  "title": "Dinaval Jall - Egovt Theme",
+  "banner": "/wp/2020/07/bg_single_team.jpg",
+  "heading": "Dinaval Jall",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Team",
+    "href": "/team/"
+   },
+   {
+    "label": "Dinaval Jall",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ },
+ "/team/wenalbooze/": {
+  "title": "Cevin Peter - Egovt Theme",
+  "banner": "/wp/2020/07/bg_single_team.jpg",
+  "heading": "Cevin Peter",
+  "crumbs": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Team",
+    "href": "/team/"
+   },
+   {
+    "label": "Cevin Peter",
+    "href": null
+   }
+  ],
+  "cls": "wrap_ova_header bg_feature_img"
+ }
+}
